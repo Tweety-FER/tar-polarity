@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>hrana je odlična . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>probala sam dosad 3-4 vrste pizza , pileći file u umaku od šampinjon i palačinke i stvarno nemam nikakvog prigovora . </text>
+				<pairs>
+						<pair aspect="sam" anchor="prigovora" link="" sent="" />
+						<pair aspect="pizza" anchor="prigovora" link="" sent="" />
+						<pair aspect="file" anchor="prigovora" link="" sent="" />
+						<pair aspect="umaku" anchor="prigovora" link="" sent="" />
+						<pair aspect="šampinjon" anchor="prigovora" link="" sent="" />
+						<pair aspect="palačinke" anchor="prigovora" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve dođe na vrijeme a dostavljač je jako ljubazan i simpatičan </text>
+				<pairs>
+						<pair aspect="sve" anchor="ljubazan" link="" sent="" />
+						<pair aspect="dođe" anchor="ljubazan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+						<pair aspect="sve" anchor="simpatičan" link="" sent="" />
+						<pair aspect="dođe" anchor="simpatičan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="simpatičan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

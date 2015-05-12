@@ -1,0 +1,52 @@
+<CrawlItem>
+  <Text>super</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/grill-bistro-tomislav</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>super </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>super</Word>
+          <Lemma>super</Lemma>
+          <MolexLemmas>
+            <string>super</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>super</BasicStem>
+          <MSDs>
+            <string>N=msa</string>
+            <string>N=msn</string>
+            <string>N=msv</string>
+            <string>Nlmsn</string>
+            <string>Nlmsv</string>
+          </MSDs>
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations />
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>super</Word>
+      <Lemma>super</Lemma>
+      <MolexLemmas>
+        <string>super</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>super</BasicStem>
+      <MSDs>
+        <string>N=msa</string>
+        <string>N=msn</string>
+        <string>N=msv</string>
+        <string>Nlmsn</string>
+        <string>Nlmsv</string>
+      </MSDs>
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

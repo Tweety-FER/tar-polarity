@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>snickers je prošli put bio bolji : ) dvoje nas se slaže , ali i dalje jako fino , no dobro zato je rafale ispravio sve cisti seks , twix nam se ne svoda poklonili smo ih sustanaru njemu su dobre , marelica mi je prošli put uljepšala dan šteta sto ovaj put nisam to uzelo . </text>
+				<pairs>
+						<pair aspect="sve" anchor="bolji" link="" sent="" />
+						<pair aspect="twix" anchor="bolji" link="" sent="" />
+						<pair aspect="sve" anchor="fino" link="" sent="" />
+						<pair aspect="twix" anchor="fino" link="" sent="" />
+						<pair aspect="sve" anchor="dobro" link="" sent="" />
+						<pair aspect="twix" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="dobre" link="" sent="" />
+						<pair aspect="twix" anchor="dobre" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve u svemu jako dobro , po dostavi možeš sat podesiti u minutu točni , bez konkurencije u palačinkama ( ali i sa cijenom istih no iznad svih ste i po kvaliteti tako da je opravdano ) , kad bi bar svi imali makar tijesto kao vaše , ove priće gumenoj meni ne drže vodu za vas , vidim da to pišu po komentarima , s obzirom kakvo dobijem od ostalih ovo je vrhunski proizvod , da uvijek može bolje je istina , ne raditi vikendom mi je smiješno , ok živite od firmi pretpostavljam , ali da ne bi imali posla vise vikendom ne vjerujemo .. </text>
+				<pairs>
+						<pair aspect="sve" anchor="dobro" link="" sent="" />
+						<pair aspect="dostavi" anchor="dobro" link="" sent="" />
+						<pair aspect="palačinkama" anchor="dobro" link="" sent="" />
+						<pair aspect="cijenom" anchor="dobro" link="" sent="" />
+						<pair aspect="ste" anchor="dobro" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="dobro" link="" sent="" />
+						<pair aspect="tijesto" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="točni" link="" sent="" />
+						<pair aspect="dostavi" anchor="točni" link="" sent="" />
+						<pair aspect="palačinkama" anchor="točni" link="" sent="" />
+						<pair aspect="cijenom" anchor="točni" link="" sent="" />
+						<pair aspect="ste" anchor="točni" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="točni" link="" sent="" />
+						<pair aspect="tijesto" anchor="točni" link="" sent="" />
+						<pair aspect="sve" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="dostavi" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="palačinkama" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="cijenom" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="ste" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="tijesto" anchor="kvaliteti" link="" sent="" />
+						<pair aspect="sve" anchor="vrhunski" link="" sent="" />
+						<pair aspect="dostavi" anchor="vrhunski" link="" sent="" />
+						<pair aspect="palačinkama" anchor="vrhunski" link="" sent="" />
+						<pair aspect="cijenom" anchor="vrhunski" link="" sent="" />
+						<pair aspect="ste" anchor="vrhunski" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="vrhunski" link="" sent="" />
+						<pair aspect="tijesto" anchor="vrhunski" link="" sent="" />
+						<pair aspect="sve" anchor="bolje" link="" sent="" />
+						<pair aspect="dostavi" anchor="bolje" link="" sent="" />
+						<pair aspect="palačinkama" anchor="bolje" link="" sent="" />
+						<pair aspect="cijenom" anchor="bolje" link="" sent="" />
+						<pair aspect="ste" anchor="bolje" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="bolje" link="" sent="" />
+						<pair aspect="tijesto" anchor="bolje" link="" sent="" />
+						<pair aspect="sve" anchor="ok" link="" sent="" />
+						<pair aspect="dostavi" anchor="ok" link="" sent="" />
+						<pair aspect="palačinkama" anchor="ok" link="" sent="" />
+						<pair aspect="cijenom" anchor="ok" link="" sent="" />
+						<pair aspect="ste" anchor="ok" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="ok" link="" sent="" />
+						<pair aspect="tijesto" anchor="ok" link="" sent="" />
+						<pair aspect="sve" anchor="vise" link="" sent="" />
+						<pair aspect="dostavi" anchor="vise" link="" sent="" />
+						<pair aspect="palačinkama" anchor="vise" link="" sent="" />
+						<pair aspect="cijenom" anchor="vise" link="" sent="" />
+						<pair aspect="ste" anchor="vise" link="" sent="" />
+						<pair aspect="kvaliteti" anchor="vise" link="" sent="" />
+						<pair aspect="tijesto" anchor="vise" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>hrana nije loša . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="loša" link="-" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ali mi je suludog da dostavljate u gračane iz prostog razloga što je hrana došla skroz hladna . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="hladna" link="+" sent="-" />
+						<pair aspect="došla" anchor="hladna" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>kašnjenje od pola sata od nabavljenoj neću niti komentirati . </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>par puta sam naručio i miran reci da je predobroj , palačinke savršene , došlo prije vremena , dostavljač ljubazan : ) </text>
+				<pairs>
+						<pair aspect="sam" anchor="predobroj" link="" sent="" />
+						<pair aspect="palačinke" anchor="predobroj" link="" sent="" />
+						<pair aspect="došlo" anchor="predobroj" link="" sent="" />
+						<pair aspect="dostavljač" anchor="predobroj" link="" sent="" />
+						<pair aspect="sam" anchor="savršene" link="" sent="" />
+						<pair aspect="palačinke" anchor="savršene" link="+" sent="+" />
+						<pair aspect="došlo" anchor="savršene" link="" sent="" />
+						<pair aspect="dostavljač" anchor="savršene" link="" sent="" />
+						<pair aspect="sam" anchor="ljubazan" link="" sent="" />
+						<pair aspect="palačinke" anchor="ljubazan" link="" sent="" />
+						<pair aspect="došlo" anchor="ljubazan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

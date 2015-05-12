@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>naručio 3 pizze, došle bez kupona... inače slavonska jako dobra</Text>
+  <Rating>4.5</Rating>
+  <Source>http://pauza.hr/menu/pizzeria6</Source>
+</CrawlItem>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ma kad bi spustili tu minimalnu dostavu na 30kn do voljnog da ne moram tu juhu viska stalno naručivati mi je bilo u glavi , no kad sam probao tih par juha nije mi zao inače ne bi ni znao kako su fine : d . </text>
+				<pairs>
+						<pair aspect="dostavu" anchor="fine" link="" sent="" />
+						<pair aspect="juhu" anchor="fine" link="" sent="" />
+						<pair aspect="sam" anchor="fine" link="" sent="" />
+						<pair aspect="juha" anchor="fine" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ja se uporno vraćam vašim pizzama - seljačka je odlična , dostavljači uvijek na vrijeme i ljubazni ! </text>
+				<pairs>
+						<pair aspect="pizzama" anchor="odlična" link="+" sent="" />
+						<pair aspect="dostavljači" anchor="odlična" link="" sent="" />
+						<pair aspect="pizzama" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljači" anchor="ljubazni" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

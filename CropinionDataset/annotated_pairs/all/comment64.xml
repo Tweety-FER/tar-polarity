@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gyros odličan kao i svaki put , došlo &lt;num&gt; minuta ranije ! </text>
+				<pairs>
+						<pair aspect="gyros" anchor="odličan" link="+" sent="" />
+						<pair aspect="došlo" anchor="odličan" link="" sent="" />
+						<pair aspect="gyros" anchor="ranije" link="" sent="" />
+						<pair aspect="došlo" anchor="ranije" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

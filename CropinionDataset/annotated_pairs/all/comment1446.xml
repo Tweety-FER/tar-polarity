@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>drugi put sam naručio slavonsku , bez feferona , oba puta stiglo ~ pol sata prije nabavljenoj !!! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pizza je najbolja ikada , hvala vam lijepo na trudu , čujemo se ; </text>
+				<pairs>
+						<pair aspect="pizza" anchor="najbolja" link="+" sent="" />
+						<pair aspect="pizza" anchor="hvala" link="" sent="" />
+						<pair aspect="pizza" anchor="lijepo" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>) </text>
+				<pairs />
+		</sentence>
+</comment>

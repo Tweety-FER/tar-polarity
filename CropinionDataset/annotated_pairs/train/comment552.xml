@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizzu i pommfrit za &lt;num&gt; minuta došli : ) ) ) ) ) . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sto reci ma da je najgore na svijetu moraš im oprostiti , a dostavljač koji ne želi uzeti napojnicu zaslužuje povišicu jer to još nikad nisam doživio . </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="najgore" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>inače meni je njihova pizza veselio definitivno bez konkurencije sto zbog cijene sto zbog okusa . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+						<pair aspect="okusa" anchor="cijene" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

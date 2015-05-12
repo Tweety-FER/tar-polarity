@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dakle , naručila sam svoju tjesteninu u &lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sada , nakon sat i pol čekanja još uvijek je nema , restoran je već odavno zatvoren , a mene nitko nije obavijestio da narudžba neće biti izvršena . </text>
+				<pairs>
+						<pair aspect="restoran" anchor="čekanja" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sramota ! </text>
+				<pairs />
+		</sentence>
+</comment>

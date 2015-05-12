@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>plata je bila odlična , mini pogačice zakon ali niža ocjena je radi visoke cijene minimalne narudžbe . </text>
+				<pairs>
+						<pair aspect="plata" anchor="odlična" link="+" sent="+" />
+						<pair aspect="pogačice" anchor="odlična" link="" sent="" />
+						<pair aspect="cijene" anchor="odlična" link="" sent="" />
+						<pair aspect="plata" anchor="mini" link="" sent="" />
+						<pair aspect="pogačice" anchor="mini" link="" sent="" />
+						<pair aspect="cijene" anchor="mini" link="" sent="" />
+						<pair aspect="plata" anchor="zakon" link="" sent="" />
+						<pair aspect="pogačice" anchor="zakon" link="+" sent="+" />
+						<pair aspect="cijene" anchor="zakon" link="" sent="" />
+						<pair aspect="plata" anchor="cijene" link="" sent="" />
+						<pair aspect="pogačice" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

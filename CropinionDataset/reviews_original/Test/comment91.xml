@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>vrijeme dostave je potpuna katastrofa. Hrana naručena u 12:49 i piše očekivano vrijeme 1 sat i 30 minuta, što je puno samo po sebi, a hrana je stigla u 15:25, dakle preko 2 i pol sata od narudžbe.</Text>
+  <Rating>1.5</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

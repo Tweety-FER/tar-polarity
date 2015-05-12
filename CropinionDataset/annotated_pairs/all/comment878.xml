@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ovaj restoran posjeduje tajnu suhog pomfrita i / ili je dostava toliko brza da se pomfrit još pušio kada smo otvorili pakiranje . </text>
+				<pairs>
+						<pair aspect="restoran" anchor="suhog" link="" sent="" />
+						<pair aspect="pomfrita" anchor="suhog" link="+" sent="+" />
+						<pair aspect="dostava" anchor="suhog" link="" sent="" />
+						<pair aspect="pomfrit" anchor="suhog" link="" sent="" />
+						<pair aspect="pakiranje" anchor="suhog" link="" sent="" />
+						<pair aspect="restoran" anchor="brza" link="" sent="" />
+						<pair aspect="pomfrita" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="pomfrit" anchor="brza" link="" sent="" />
+						<pair aspect="pakiranje" anchor="brza" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ćevapi su jednostavno stvarno fini - meso je odlično , nije masno . </text>
+				<pairs>
+						<pair aspect="ćevapi" anchor="fini" link="+" sent="+" />
+						<pair aspect="meso" anchor="fini" link="" sent="" />
+						<pair aspect="ćevapi" anchor="odlično" link="" sent="" />
+						<pair aspect="meso" anchor="odlično" link="+" sent="+" />
+						<pair aspect="ćevapi" anchor="masno" link="" sent="" />
+						<pair aspect="meso" anchor="masno" link="-" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>čista šestica </text>
+				<pairs />
+		</sentence>
+</comment>

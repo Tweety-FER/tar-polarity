@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>slane palačinke sa sirom i vrhnjem , nešto maj maj .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>došle su vruće i japanko ukusne </text>
+				<pairs>
+						<pair aspect="došle" anchor="vruće" link="+" sent="+" />
+						<pair aspect="došle" anchor="ukusne" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

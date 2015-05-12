@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlična pizza , bogata i ukusna . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+						<pair aspect="pizza" anchor="bogata" link="+" sent="+" />
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

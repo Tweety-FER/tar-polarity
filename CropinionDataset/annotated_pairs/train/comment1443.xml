@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>još jednom odlična plata za dvoje . </text>
+				<pairs>
+						<pair aspect="plata" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>troje nas je jelo i svi smo bili siti . </text>
+				<pairs />
+		</sentence>
+</comment>

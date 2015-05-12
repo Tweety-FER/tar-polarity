@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizzerija spadah u brst but ( najbolji omjer kvalitete i cijene ) , ponuda je raznovrsna , vrijeme dostave je vrlo brzo , nemam primjedbu </text>
+				<pairs>
+						<pair aspect="kvalitete" anchor="najbolji" link="+" sent="" />
+						<pair aspect="cijene" anchor="najbolji" link="+" sent="" />
+						<pair aspect="ponuda" anchor="najbolji" link="" sent="" />
+						<pair aspect="dostave" anchor="najbolji" link="" sent="" />
+						<pair aspect="kvalitete" anchor="kvalitete" link="" sent="" />
+						<pair aspect="cijene" anchor="kvalitete" link="" sent="" />
+						<pair aspect="ponuda" anchor="kvalitete" link="" sent="" />
+						<pair aspect="dostave" anchor="kvalitete" link="" sent="" />
+						<pair aspect="kvalitete" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+						<pair aspect="ponuda" anchor="cijene" link="" sent="" />
+						<pair aspect="dostave" anchor="cijene" link="" sent="" />
+						<pair aspect="kvalitete" anchor="brzo" link="" sent="" />
+						<pair aspect="cijene" anchor="brzo" link="" sent="" />
+						<pair aspect="ponuda" anchor="brzo" link="" sent="" />
+						<pair aspect="dostave" anchor="brzo" link="+" sent="" />
+						<pair aspect="kvalitete" anchor="primjedbu" link="" sent="" />
+						<pair aspect="cijene" anchor="primjedbu" link="" sent="" />
+						<pair aspect="ponuda" anchor="primjedbu" link="" sent="" />
+						<pair aspect="dostave" anchor="primjedbu" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Odlične pizze. Za sad broj 1 za dostavu, nadam se da se neće pokvariti.</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

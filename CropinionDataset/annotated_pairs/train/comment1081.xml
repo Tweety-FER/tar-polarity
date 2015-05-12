@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>meni se jako sviđa kuna fond .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>fora pakiranje i blaga hrana . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>više puta smo naručili i svaki puta dostava na vrijeme , topla i ukusna hrana . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="topla" link="" sent="" />
+						<pair aspect="hrana" anchor="topla" link="+" sent="+" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>doduše naručivali smo i ljute stvari . </text>
+				<pairs />
+		</sentence>
+</comment>

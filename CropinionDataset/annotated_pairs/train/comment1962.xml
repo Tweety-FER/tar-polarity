@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pileći file u umaku od šampinjon savršen . </text>
+				<pairs>
+						<pair aspect="file" anchor="savršen" link="+" sent="+" />
+						<pair aspect="umaku" anchor="savršen" link="+" sent="+" />
+						<pair aspect="šampinjon" anchor="savršen" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>samo nastavite tako . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>lp </text>
+				<pairs />
+		</sentence>
+</comment>

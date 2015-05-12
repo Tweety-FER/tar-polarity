@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gyros + pomfri su bili izvrsni ! </text>
+				<pairs>
+						<pair aspect="gyros" anchor="izvrsni" link="+" sent="+" />
+						<pair aspect="pomfri" anchor="izvrsni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

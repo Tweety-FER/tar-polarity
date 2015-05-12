@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>definitivno najbolja dostava od kada s kolegama naručujem . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="najbolja" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>najbolji omjer cijene i kvalitete . </text>
+				<pairs>
+						<pair aspect="cijene" anchor="najbolji" link="" sent="" />
+						<pair aspect="kvalitete" anchor="najbolji" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+						<pair aspect="kvalitete" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="kvalitete" link="+" sent="+" />
+						<pair aspect="kvalitete" anchor="kvalitete" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>već duže vrijeme naručujemo &lt;num&gt; od &lt;num&gt; puta od gore . </text>
+				<pairs />
+		</sentence>
+</comment>

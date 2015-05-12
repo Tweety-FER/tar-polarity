@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gabele &lt;num&gt; klasičnoj fantastičan . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nezadovoljna sam ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>palačinke kao i uvijek fine . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="fine" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>kad ćete mi dati omjere za smjesu ? </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>: - ) </text>
+				<pairs />
+		</sentence>
+</comment>

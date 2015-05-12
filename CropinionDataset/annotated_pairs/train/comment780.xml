@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je došla točno na vrijeme i pratila je napomenu koju sam nad opisala što jako cijenim . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="točno" link="+" sent="+" />
+						<pair aspect="došla" anchor="točno" link="+" sent="+" />
+						<pair aspect="sam" anchor="točno" link="" sent="" />
+						<pair aspect="dostava" anchor="cijenim" link="" sent="" />
+						<pair aspect="došla" anchor="cijenim" link="" sent="" />
+						<pair aspect="sam" anchor="cijenim" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>možda je bilo malo više tjestenine nego što bih htjela imati u nečemu što se zove salata , ali sam oduševljena kombinacijom u groš salati . </text>
+				<pairs>
+						<pair aspect="tjestenine" anchor="oduševljena" link="" sent="" />
+						<pair aspect="salata" anchor="oduševljena" link="" sent="" />
+						<pair aspect="sam" anchor="oduševljena" link="+" sent="+" />
+						<pair aspect="salati" anchor="oduševljena" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>palačinke su , na žalost , ispod prosječne . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="žalost" link="+" sent="-" />
+						<pair aspect="palačinke" anchor="prosječne" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>došle su hladne , što i razumijem s obzirom na vrijeme i vožnju , ali nisu bile baš ukusne . </text>
+				<pairs>
+						<pair aspect="došle" anchor="hladne" link="+" sent="-" />
+						<pair aspect="došle" anchor="ukusne" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>uz to su još i masne bile . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>cijena je vrlo prihvatljiva ( &lt;num&gt; kuna za čak &lt;num&gt; palačinke i &lt;num&gt; kn za salatu ) , međutim , nisam baš zadovoljna hranom . </text>
+				<pairs>
+						<pair aspect="cijena" anchor="prihvatljiva" link="+" sent="+" />
+						<pair aspect="palačinke" anchor="prihvatljiva" link="" sent="" />
+						<pair aspect="salatu" anchor="prihvatljiva" link="" sent="" />
+						<pair aspect="hranom" anchor="prihvatljiva" link="" sent="" />
+						<pair aspect="cijena" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="palačinke" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="salatu" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="hranom" anchor="zadovoljna" link="-" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

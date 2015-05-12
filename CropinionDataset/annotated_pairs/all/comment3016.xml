@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>hrana je prosječna , dostava je u roku , no problem je sto sam naručio dva različita jela , a dobio dva ista ... </text>
+				<pairs>
+						<pair aspect="hrana" anchor="prosječna" link="+" sent="-" />
+						<pair aspect="dostava" anchor="prosječna" link="" sent="" />
+						<pair aspect="sam" anchor="prosječna" link="" sent="" />
+						<pair aspect="jela" anchor="prosječna" link="" sent="" />
+						<pair aspect="hrana" anchor="problem" link="" sent="" />
+						<pair aspect="dostava" anchor="problem" link="" sent="" />
+						<pair aspect="sam" anchor="problem" link="" sent="" />
+						<pair aspect="jela" anchor="problem" link="+" sent="-" />
+				</pairs>
+		</sentence>
+</comment>

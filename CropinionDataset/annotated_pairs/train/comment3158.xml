@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza stigla &lt;num&gt; mina ranije , bogata i sa svim navedenim sastojcima , topla sa finim tijestom , cijene u rangu sa ostalim pizzerijama . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="mina" link="" sent="" />
+						<pair aspect="stigla" anchor="mina" link="" sent="" />
+						<pair aspect="sastojcima" anchor="mina" link="" sent="" />
+						<pair aspect="tijestom" anchor="mina" link="" sent="" />
+						<pair aspect="cijene" anchor="mina" link="" sent="" />
+						<pair aspect="pizza" anchor="ranije" link="" sent="" />
+						<pair aspect="stigla" anchor="ranije" link="+" sent="+" />
+						<pair aspect="sastojcima" anchor="ranije" link="" sent="" />
+						<pair aspect="tijestom" anchor="ranije" link="" sent="" />
+						<pair aspect="cijene" anchor="ranije" link="" sent="" />
+						<pair aspect="pizza" anchor="bogata" link="+" sent="+" />
+						<pair aspect="stigla" anchor="bogata" link="" sent="" />
+						<pair aspect="sastojcima" anchor="bogata" link="" sent="" />
+						<pair aspect="tijestom" anchor="bogata" link="" sent="" />
+						<pair aspect="cijene" anchor="bogata" link="" sent="" />
+						<pair aspect="pizza" anchor="topla" link="+" sent="+" />
+						<pair aspect="stigla" anchor="topla" link="" sent="" />
+						<pair aspect="sastojcima" anchor="topla" link="" sent="" />
+						<pair aspect="tijestom" anchor="topla" link="" sent="" />
+						<pair aspect="cijene" anchor="topla" link="" sent="" />
+						<pair aspect="pizza" anchor="finim" link="" sent="" />
+						<pair aspect="stigla" anchor="finim" link="" sent="" />
+						<pair aspect="sastojcima" anchor="finim" link="" sent="" />
+						<pair aspect="tijestom" anchor="finim" link="+" sent="+" />
+						<pair aspect="cijene" anchor="finim" link="" sent="" />
+						<pair aspect="pizza" anchor="cijene" link="" sent="" />
+						<pair aspect="stigla" anchor="cijene" link="" sent="" />
+						<pair aspect="sastojcima" anchor="cijene" link="" sent="" />
+						<pair aspect="tijestom" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast ! </text>
+				<pairs />
+		</sentence>
+</comment>

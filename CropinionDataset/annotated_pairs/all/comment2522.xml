@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gabele ne bih preporučio , pizze ne mogu komentirati jer ih nismo jeli . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručili smo lignje nekoliko puta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; puta loše , &lt;num&gt; puta dobre , znači lutrija . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>također smo &lt;num&gt; puta dobili popust za narudžbu iznad 100kn , jednom ne . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>brza dostava , ali sat im vrijedi kad hrana ne valja . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="" />
+						<pair aspect="hrana" anchor="brza" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

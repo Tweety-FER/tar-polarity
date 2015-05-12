@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>nazvali su i ispričali se što će kasniti &lt;num&gt; mina . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>uz to smo dobili gratis palačinke s euro kremom , vjerojatno upravo kao znak isprike zbog kašnjenja . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="gratis" link="+" sent="" />
+						<pair aspect="palačinke" anchor="isprike" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>klopa solidna . </text>
+				<pairs>
+						<pair aspect="klopa" anchor="solidna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>palačinke odlične ! </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="odlične" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>preporučam ! </text>
+				<pairs />
+		</sentence>
+</comment>

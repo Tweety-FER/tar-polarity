@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>super rižoti od lignji .. </text>
+				<pairs>
+						<pair aspect="lignji" anchor="super" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>moglo bi bit vise lignji , ali inače ok </text>
+				<pairs>
+						<pair aspect="lignji" anchor="vise" link="+" sent="-" />
+						<pair aspect="lignji" anchor="ok" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

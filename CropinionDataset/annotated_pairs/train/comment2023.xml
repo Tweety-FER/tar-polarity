@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>fizika opet super , jedino ju nemojte stavljati samo u karto jer je promočila : ) treba ju malo bolje zamotati . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>njoka su ukusne , došle vrele , malo presele , ali to sam na brzinu popravio sam malo šećera : ) porcija je isto velika ( ne djeluje dok je onako stisnuta u maloj kutiji - iznenadilo nekad sam prebacio na tanjur : ) ) </text>
+				<pairs>
+						<pair aspect="njoka" anchor="ukusne" link="+" sent="+" />
+						<pair aspect="došle" anchor="ukusne" link="" sent="" />
+						<pair aspect="sam" anchor="ukusne" link="" sent="" />
+						<pair aspect="sam" anchor="ukusne" link="" sent="" />
+						<pair aspect="porcija" anchor="ukusne" link="" sent="" />
+						<pair aspect="sam" anchor="ukusne" link="" sent="" />
+						<pair aspect="njoka" anchor="brzinu" link="" sent="" />
+						<pair aspect="došle" anchor="brzinu" link="" sent="" />
+						<pair aspect="sam" anchor="brzinu" link="" sent="" />
+						<pair aspect="sam" anchor="brzinu" link="" sent="" />
+						<pair aspect="porcija" anchor="brzinu" link="" sent="" />
+						<pair aspect="sam" anchor="brzinu" link="" sent="" />
+						<pair aspect="njoka" anchor="velika" link="" sent="" />
+						<pair aspect="došle" anchor="velika" link="" sent="" />
+						<pair aspect="sam" anchor="velika" link="" sent="" />
+						<pair aspect="sam" anchor="velika" link="" sent="" />
+						<pair aspect="porcija" anchor="velika" link="+" sent="+" />
+						<pair aspect="sam" anchor="velika" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio svinjski odrezak u umaku od tartufa , krokete , pohane palačinke punjene usnom i sirom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>svako od jela je pravi gastronomski doživljaj , sve pohvale kuharima . </text>
+				<pairs>
+						<pair aspect="jela" anchor="pravi" link="+" sent="+" />
+						<pair aspect="sve" anchor="pravi" link="" sent="" />
+						<pair aspect="jela" anchor="pohvale" link="" sent="" />
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>odrezak mekan i podatan , kroketi besprijekorni , umak prefin . </text>
+				<pairs>
+						<pair aspect="odrezak" anchor="mekan" link="+" sent="+" />
+						<pair aspect="kroketi" anchor="mekan" link="" sent="" />
+						<pair aspect="umak" anchor="mekan" link="" sent="" />
+						<pair aspect="odrezak" anchor="prefin" link="" sent="" />
+						<pair aspect="kroketi" anchor="prefin" link="" sent="" />
+						<pair aspect="umak" anchor="prefin" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>palačinke mrvicu premašene , tatar domaći . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava prije navedenoga roka . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dakle , najviša ocjena ! </text>
+				<pairs />
+		</sentence>
+</comment>

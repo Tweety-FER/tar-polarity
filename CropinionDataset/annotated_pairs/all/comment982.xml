@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>raznovrsna sa latica ( sezonska ) ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>kej , meni fali još začina .... </text>
+				<pairs>
+						<pair aspect="začina" anchor="fali" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>a tjestenina s gorgonzolom i piletinom je prva liga . </text>
+				<pairs>
+						<pair aspect="tjestenina" anchor="liga" link="+" sent="" />
+						<pair aspect="piletinom" anchor="liga" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ukusna i špageti su taman kuhani . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>: ) </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>nakon par pizza i meksičkih delirija stvarno samo pohvale od brzine dostave do kvalitete samog jela ! </text>
+				<pairs>
+						<pair aspect="pizza" anchor="pohvale" link="" sent="" />
+						<pair aspect="meksičkih" anchor="pohvale" link="" sent="" />
+						<pair aspect="dostave" anchor="pohvale" link="+" sent="" />
+						<pair aspect="kvalitete" anchor="pohvale" link="+" sent="" />
+						<pair aspect="jela" anchor="pohvale" link="+" sent="" />
+						<pair aspect="pizza" anchor="brzine" link="" sent="" />
+						<pair aspect="meksičkih" anchor="brzine" link="" sent="" />
+						<pair aspect="dostave" anchor="brzine" link="+" sent="" />
+						<pair aspect="kvalitete" anchor="brzine" link="" sent="" />
+						<pair aspect="jela" anchor="brzine" link="" sent="" />
+						<pair aspect="pizza" anchor="kvalitete" link="" sent="" />
+						<pair aspect="meksičkih" anchor="kvalitete" link="" sent="" />
+						<pair aspect="dostave" anchor="kvalitete" link="" sent="" />
+						<pair aspect="kvalitete" anchor="kvalitete" link="" sent="" />
+						<pair aspect="jela" anchor="kvalitete" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>a + </text>
+				<pairs />
+		</sentence>
+</comment>

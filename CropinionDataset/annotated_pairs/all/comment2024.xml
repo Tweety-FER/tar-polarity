@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>zaboravio sam jučer ostaviti komentar : ) opet odlična pizza i fizike : ) preporučam </text>
+				<pairs>
+						<pair aspect="sam" anchor="odlična" link="" sent="" />
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+						<pair aspect="sam" anchor="preporučam" link="" sent="" />
+						<pair aspect="pizza" anchor="preporučam" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

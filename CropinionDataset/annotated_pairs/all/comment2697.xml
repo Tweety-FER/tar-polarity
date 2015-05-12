@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>lazanje bolognese su premašene i s previše sira . </text>
+				<pairs>
+						<pair aspect="lazanje" anchor="previše" link="" sent="" />
+						<pair aspect="bolognese" anchor="previše" link="" sent="" />
+						<pair aspect="sira" anchor="previše" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dominira okus vedete . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>za cijenu od &lt;num&gt; kuna daleko ispod očekivanoga . </text>
+				<pairs />
+		</sentence>
+</comment>

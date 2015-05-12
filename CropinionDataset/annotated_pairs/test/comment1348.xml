@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jedan od najboljih pizza sto sam u zadnje vrijeme jelo </text>
+				<pairs>
+						<pair aspect="pizza" anchor="najboljih" link="+" sent="" />
+						<pair aspect="sam" anchor="najboljih" link="" sent="" />
+						<pair aspect="jelo" anchor="najboljih" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

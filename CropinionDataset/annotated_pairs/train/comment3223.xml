@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>domaće je domaće : ) zaista pripremaju odličnu hranu , dostava točna , ukusno i toplo ! </text>
+				<pairs>
+						<pair aspect="hranu" anchor="odličnu" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odličnu" link="" sent="" />
+						<pair aspect="hranu" anchor="točna" link="" sent="" />
+						<pair aspect="dostava" anchor="točna" link="+" sent="+" />
+						<pair aspect="hranu" anchor="ukusno" link="+" sent="+" />
+						<pair aspect="dostava" anchor="ukusno" link="" sent="" />
+						<pair aspect="hranu" anchor="toplo" link="+" sent="+" />
+						<pair aspect="dostava" anchor="toplo" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

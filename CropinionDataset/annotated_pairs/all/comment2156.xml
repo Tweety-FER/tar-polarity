@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio pizzu slavoniju speci jal , bila je ukusna , no pršut se ne smije peći na pizzi , nego se stavi na pizzu kad je pečena . </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="pizzi" anchor="ukusna" link="" sent="" />
+						<pair aspect="pizzu" anchor="ukusna" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

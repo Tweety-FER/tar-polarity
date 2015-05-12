@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>faširani sa salatom od mahuna su jako fini , a dostava je stigla u minutu prema nabavljenom . </text>
+				<pairs>
+						<pair aspect="salatom" anchor="fini" link="+" sent="+" />
+						<pair aspect="dostava" anchor="fini" link="" sent="" />
+						<pair aspect="stigla" anchor="fini" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>no , naručio sam dvije palačinke s čokoladom , a dobio dvije s marmeladom - - nije tragedija , ali je svejedno neugodno iznenađenje . </text>
+				<pairs>
+						<pair aspect="sam" anchor="neugodno" link="" sent="" />
+						<pair aspect="palačinke" anchor="neugodno" link="" sent="" />
+						<pair aspect="čokoladom" anchor="neugodno" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

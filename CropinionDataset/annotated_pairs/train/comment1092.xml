@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlične proljetne police i fina junetina s gljivama , špageti su bili trun od , ali sve je bilo fino i toplo , dostava brza i dostavljač jako simpatican ! </text>
+				<pairs>
+						<pair aspect="junetina" anchor="odlične" link="" sent="" />
+						<pair aspect="gljivama" anchor="odlične" link="" sent="" />
+						<pair aspect="sve" anchor="odlične" link="" sent="" />
+						<pair aspect="dostava" anchor="odlične" link="" sent="" />
+						<pair aspect="dostavljač" anchor="odlične" link="" sent="" />
+						<pair aspect="junetina" anchor="fina" link="+" sent="+" />
+						<pair aspect="gljivama" anchor="fina" link="" sent="" />
+						<pair aspect="sve" anchor="fina" link="" sent="" />
+						<pair aspect="dostava" anchor="fina" link="" sent="" />
+						<pair aspect="dostavljač" anchor="fina" link="" sent="" />
+						<pair aspect="junetina" anchor="fino" link="" sent="" />
+						<pair aspect="gljivama" anchor="fino" link="" sent="" />
+						<pair aspect="sve" anchor="fino" link="+" sent="+" />
+						<pair aspect="dostava" anchor="fino" link="" sent="" />
+						<pair aspect="dostavljač" anchor="fino" link="" sent="" />
+						<pair aspect="junetina" anchor="toplo" link="" sent="" />
+						<pair aspect="gljivama" anchor="toplo" link="" sent="" />
+						<pair aspect="sve" anchor="toplo" link="+" sent="+" />
+						<pair aspect="dostava" anchor="toplo" link="" sent="" />
+						<pair aspect="dostavljač" anchor="toplo" link="" sent="" />
+						<pair aspect="junetina" anchor="brza" link="" sent="" />
+						<pair aspect="gljivama" anchor="brza" link="" sent="" />
+						<pair aspect="sve" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostavljač" anchor="brza" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

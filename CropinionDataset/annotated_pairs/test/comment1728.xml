@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>&lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>grlila bok - domaći rezanci s piletinom i curryemodlično , fino , toplo , sa štapićima . </text>
+				<pairs>
+						<pair aspect="piletinom" anchor="fino" link="+" sent="" />
+						<pair aspect="piletinom" anchor="toplo" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>razumna cijena . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dobije se i slatko - kiseli cikli umak . </text>
+				<pairs>
+						<pair aspect="umak" anchor="kiseli" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>najam ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>toplo preporučam zmaj čeka . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ostanite ovakvo dobri : ) </text>
+				<pairs />
+		</sentence>
+</comment>

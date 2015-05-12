@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlične palačinke ( osobni favorit momke , cimerima rafale ) , dostava uvijek na vrijeme , dostavljači simpa - ma sve pohvale ! </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="odlične" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odlične" link="" sent="" />
+						<pair aspect="dostavljači" anchor="odlične" link="" sent="" />
+						<pair aspect="sve" anchor="odlične" link="" sent="" />
+						<pair aspect="palačinke" anchor="simpa" link="" sent="" />
+						<pair aspect="dostava" anchor="simpa" link="" sent="" />
+						<pair aspect="dostavljači" anchor="simpa" link="+" sent="+" />
+						<pair aspect="sve" anchor="simpa" link="" sent="" />
+						<pair aspect="palačinke" anchor="pohvale" link="" sent="" />
+						<pair aspect="dostava" anchor="pohvale" link="" sent="" />
+						<pair aspect="dostavljači" anchor="pohvale" link="" sent="" />
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>: ) </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili himbo ix , rekli da je dostava za &lt;num&gt; minuta , došli za &lt;num&gt; minuta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ali pizza je bila hladna . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="hladna" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

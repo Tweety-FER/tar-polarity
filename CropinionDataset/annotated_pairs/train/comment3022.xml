@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>u novogodišnjoj noći su nam dostavili hranu , super ukusnu ! </text>
+				<pairs>
+						<pair aspect="hranu" anchor="super" link="+" sent="+" />
+						<pair aspect="hranu" anchor="ukusnu" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sretna nova godina ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>* * * </text>
+				<pairs />
+		</sentence>
+</comment>

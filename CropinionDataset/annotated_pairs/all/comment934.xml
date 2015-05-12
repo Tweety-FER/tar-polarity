@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jeli smo sisa ćevape i bili su zaista dobri . </text>
+				<pairs>
+						<pair aspect="jeli" anchor="dobri" link="+" sent="+" />
+						<pair aspect="ćevape" anchor="dobri" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naručit ćemo opet . </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jučer &lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sam naručio grah , očito su ga dva kuhara solila stvarno ga nisam mogao jesti . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>inače sve ostalo je ok </text>
+				<pairs>
+						<pair aspect="sve" anchor="ok" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

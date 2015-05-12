@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pileći punjeni steak je izvrstan ! </text>
+				<pairs>
+						<pair aspect="steak" anchor="izvrstan" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>inače , naručujemo na poslu i uvijek je dobra hrana ! </text>
+				<pairs>
+						<pair aspect="hrana" anchor="dobra" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>preporučam ! </text>
+				<pairs />
+		</sentence>
+</comment>

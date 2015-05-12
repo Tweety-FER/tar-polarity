@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gyros genijalan , porcija ogromna i došlo je na vrijeme . </text>
+				<pairs>
+						<pair aspect="gyros" anchor="ogromna" link="" sent="" />
+						<pair aspect="porcija" anchor="ogromna" link="+" sent="" />
+						<pair aspect="došlo" anchor="ogromna" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ne bi škodilo da je malo toplije jelo , ali što se može . </text>
+				<pairs>
+						<pair aspect="jelo" anchor="toplije" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

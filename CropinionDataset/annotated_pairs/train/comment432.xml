@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>savršeno vrući obroci , prefini , mekani , sočni , dostava je došla za &lt;num&gt; minuta .. </text>
+				<pairs>
+						<pair aspect="dostava" anchor="savršeno" link="" sent="" />
+						<pair aspect="došla" anchor="savršeno" link="" sent="" />
+						<pair aspect="dostava" anchor="vrući" link="" sent="" />
+						<pair aspect="došla" anchor="vrući" link="" sent="" />
+						<pair aspect="dostava" anchor="prefini" link="" sent="" />
+						<pair aspect="došla" anchor="prefini" link="" sent="" />
+						<pair aspect="dostava" anchor="mekani" link="" sent="" />
+						<pair aspect="došla" anchor="mekani" link="" sent="" />
+						<pair aspect="dostava" anchor="sočni" link="" sent="" />
+						<pair aspect="došla" anchor="sočni" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>preporučamo svakako : d </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ponovno smo naručili pizzu upravo u ovoj pizzeriji , zbog dobrih prethodnih iskustava . </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="ponovno" link="+" sent="+" />
+						<pair aspect="pizzu" anchor="dobrih" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>danas su obje pizze ( fugi , tirola ) bile odlične i uvažena je naša molba da budu malo jače pečene , što je dodatni plus . </text>
+				<pairs>
+						<pair aspect="pizze" anchor="odlične" link="+" sent="+" />
+						<pair aspect="pizze" anchor="plus" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostava u predviđenom roku , dostavljač ljubazan . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="ljubazan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sigurno ponovno naručujemo ! </text>
+				<pairs />
+		</sentence>
+</comment>

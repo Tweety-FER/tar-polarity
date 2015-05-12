@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odličan zagrebački odrezak !! </text>
+				<pairs>
+						<pair aspect="zagrebački" anchor="odličan" link="+" sent="+" />
+						<pair aspect="odrezak" anchor="odličan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ne stignem nikad napisati komentar , ali sad ipak hoću , dostava uvijek na vrijeme , klopa dobra .. </text>
+				<pairs>
+						<pair aspect="dostava" anchor="dobra" link="" sent="" />
+						<pair aspect="klopa" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve &lt;num&gt; ! </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pileći naravni sa kuhanim krumpirom i zelje salata = &lt;num&gt; kuna ( odlična cijena , odlična hrana i brza dostava ) svaka čast !!!! </text>
+				<pairs>
+						<pair aspect="krumpirom" anchor="odlična" link="" sent="" />
+						<pair aspect="salata" anchor="odlična" link="" sent="" />
+						<pair aspect="cijena" anchor="odlična" link="+" sent="+" />
+						<pair aspect="hrana" anchor="odlična" link="" sent="" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="krumpirom" anchor="odlična" link="" sent="" />
+						<pair aspect="salata" anchor="odlična" link="" sent="" />
+						<pair aspect="cijena" anchor="odlična" link="" sent="" />
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="krumpirom" anchor="brza" link="" sent="" />
+						<pair aspect="salata" anchor="brza" link="" sent="" />
+						<pair aspect="cijena" anchor="brza" link="" sent="" />
+						<pair aspect="hrana" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="krumpirom" anchor="čast" link="" sent="" />
+						<pair aspect="salata" anchor="čast" link="" sent="" />
+						<pair aspect="cijena" anchor="čast" link="" sent="" />
+						<pair aspect="hrana" anchor="čast" link="" sent="" />
+						<pair aspect="dostava" anchor="čast" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

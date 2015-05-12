@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>mrvicu kasnili , ali sve je ukusno i fino . </text>
+				<pairs>
+						<pair aspect="sve" anchor="kasnili" link="" sent="" />
+						<pair aspect="sve" anchor="ukusno" link="+" sent="+" />
+						<pair aspect="sve" anchor="fino" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

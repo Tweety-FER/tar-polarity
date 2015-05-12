@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>katastrofa u porciji ćevapa koja košta 40kn dobio sam samo &lt;num&gt; ćevapa .... </text>
+				<pairs>
+						<pair aspect="porciji" anchor="katastrofa" link="+" sent="-" />
+						<pair aspect="ćevapa" anchor="katastrofa" link="+" sent="-" />
+						<pair aspect="sam" anchor="katastrofa" link="" sent="" />
+						<pair aspect="ćevapa" anchor="katastrofa" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ako mi ne vjerujete imam i foku . </text>
+				<pairs />
+		</sentence>
+</comment>

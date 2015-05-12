@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>do sada sam jelo gyros i pizze i to je ok .. </text>
+				<pairs>
+						<pair aspect="sam" anchor="ok" link="" sent="" />
+						<pair aspect="jelo" anchor="ok" link="" sent="" />
+						<pair aspect="gyros" anchor="ok" link="+" sent="+" />
+						<pair aspect="pizze" anchor="ok" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>nije lose , prolazna ocjena , nema bolje u mome kvartu . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>brza je dostava , ne kasne . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostava" anchor="kasne" link="-" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sada naručim kreten poema pika nt salatu i mislim ft !!! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>...... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>zbog te salate sam naručio iz poeme posljednji put ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>eno ! </text>
+				<pairs />
+		</sentence>
+</comment>

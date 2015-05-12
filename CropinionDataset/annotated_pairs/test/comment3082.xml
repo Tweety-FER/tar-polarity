@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>lignje na žaru su bile odlične ! </text>
+				<pairs>
+						<pair aspect="lignje" anchor="odlične" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>falio je tatar ali to je manje bitno . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava u vrijeme i simpatican dostavljač , sve u svemu super ! </text>
+				<pairs>
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="dostavljač" anchor="super" link="" sent="" />
+						<pair aspect="sve" anchor="super" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

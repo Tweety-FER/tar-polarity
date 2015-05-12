@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>rafale i twix - odlične palačinke . </text>
+				<pairs>
+						<pair aspect="twix" anchor="odlične" link="+" sent="+" />
+						<pair aspect="palačinke" anchor="odlične" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dugačke , s obilnim punjenjem . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>stigle na knežije za 20min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pohvala dostavi . </text>
+				<pairs>
+						<pair aspect="dostavi" anchor="pohvala" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naručit ću opet ! </text>
+				<pairs />
+		</sentence>
+</comment>

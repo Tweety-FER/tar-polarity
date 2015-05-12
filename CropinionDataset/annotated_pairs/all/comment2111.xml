@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>kasnili 50min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>zovem ih i kaže čovjek da su zaboravili poslati narudžbu i da odmah šalju . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>došli za &lt;num&gt; minuta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>2h i 30min sam čekao . </text>
+				<pairs>
+						<pair aspect="sam" anchor="čekao" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>gyros je ok , pa zato nije ocjena baš &lt;num&gt; . </text>
+				<pairs>
+						<pair aspect="gyros" anchor="ok" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

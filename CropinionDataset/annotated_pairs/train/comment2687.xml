@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pileći medaljoni sa umakom od gorgonzole i rižom odlični ! </text>
+				<pairs>
+						<pair aspect="umakom" anchor="odlični" link="+" sent="+" />
+						<pair aspect="rižom" anchor="odlični" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostavljač ljubazan , došao čak &lt;num&gt; minuta prije : ) sve u svemu , definitivno opet naručujem kod vas ! </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+						<pair aspect="došao" anchor="ljubazan" link="" sent="" />
+						<pair aspect="sve" anchor="ljubazan" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

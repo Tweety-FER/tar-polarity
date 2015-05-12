@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jadno da ne može jadnije . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručimo hranu u 22h i 58min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pitaju nas jela može narudžba bez palačinka , ok može i onda u &lt;num&gt; &lt;num&gt; zovu da oni ne dostavljaju na Črnomerec ; </text>
+				<pairs>
+						<pair aspect="jela" anchor="ok" link="" sent="" />
+						<pair aspect="palačinka" anchor="ok" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>) bravo * * * </text>
+				<pairs />
+		</sentence>
+</comment>

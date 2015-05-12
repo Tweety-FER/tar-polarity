@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>neki dan pizze bile odlične , danas opet naručujemo . </text>
+				<pairs>
+						<pair aspect="pizze" anchor="odlične" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pozdrav osoblju restorana . </text>
+				<pairs />
+		</sentence>
+</comment>

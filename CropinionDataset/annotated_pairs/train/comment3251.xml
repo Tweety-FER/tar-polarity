@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>uz ionako dugačko vrijeme čekanja od &lt;num&gt; sat &lt;num&gt; mina . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>, dostava redovito kasni pola sata bez ikakve isprike . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasni" link="+" sent="-" />
+						<pair aspect="dostava" anchor="isprike" link="-" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naručili smo više puta jer su među rijetkima koji dostavljaju variva u naš kvart , ali što je previše , previše je . </text>
+				<pairs />
+		</sentence>
+</comment>

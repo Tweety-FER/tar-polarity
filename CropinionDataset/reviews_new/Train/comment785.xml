@@ -1,0 +1,143 @@
+<CrawlItem>
+  <Text>za samo 29kn</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/marinero</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>za samo 29kn </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>za</Word>
+          <Lemma>za</Lemma>
+          <MolexLemmas>
+            <string>za</string>
+          </MolexLemmas>
+          <POSTag>S</POSTag>
+          <BasicStem>za</BasicStem>
+          <MSDs />
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>samo</Word>
+          <Lemma>samo</Lemma>
+          <MolexLemmas>
+            <string>samo</string>
+          </MolexLemmas>
+          <POSTag>R</POSTag>
+          <BasicStem>sam</BasicStem>
+          <MSDs />
+          <Position>3</Position>
+          <SentenceIndex>1</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>29kn</Word>
+          <Lemma>29kn</Lemma>
+          <MolexLemmas>
+            <string>29kn</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>29kn</BasicStem>
+          <MSDs />
+          <Position>8</Position>
+          <SentenceIndex>2</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations>
+        <DependencyRelation>
+          <Governor>
+            <Word>samo</Word>
+            <Lemma>samo</Lemma>
+            <MolexLemmas>
+              <string>samo</string>
+            </MolexLemmas>
+            <POSTag>R</POSTag>
+            <BasicStem>sam</BasicStem>
+            <MSDs />
+            <Position>3</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>za</Word>
+            <Lemma>za</Lemma>
+            <MolexLemmas>
+              <string>za</string>
+            </MolexLemmas>
+            <POSTag>S</POSTag>
+            <BasicStem>za</BasicStem>
+            <MSDs />
+            <Position>0</Position>
+            <SentenceIndex>0</SentenceIndex>
+          </Dependent>
+          <Relation>Oth</Relation>
+        </DependencyRelation>
+        <DependencyRelation>
+          <Governor>
+            <Word>29kn</Word>
+            <Lemma>29kn</Lemma>
+            <MolexLemmas>
+              <string>29kn</string>
+            </MolexLemmas>
+            <POSTag>A</POSTag>
+            <BasicStem>29kn</BasicStem>
+            <MSDs />
+            <Position>8</Position>
+            <SentenceIndex>2</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>samo</Word>
+            <Lemma>samo</Lemma>
+            <MolexLemmas>
+              <string>samo</string>
+            </MolexLemmas>
+            <POSTag>R</POSTag>
+            <BasicStem>sam</BasicStem>
+            <MSDs />
+            <Position>3</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Dependent>
+          <Relation>Adv</Relation>
+        </DependencyRelation>
+      </DependencyRelations>
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>za</Word>
+      <Lemma>za</Lemma>
+      <MolexLemmas>
+        <string>za</string>
+      </MolexLemmas>
+      <POSTag>S</POSTag>
+      <BasicStem>za</BasicStem>
+      <MSDs />
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>samo</Word>
+      <Lemma>samo</Lemma>
+      <MolexLemmas>
+        <string>samo</string>
+      </MolexLemmas>
+      <POSTag>R</POSTag>
+      <BasicStem>sam</BasicStem>
+      <MSDs />
+      <Position>3</Position>
+      <SentenceIndex>1</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>29kn</Word>
+      <Lemma>29kn</Lemma>
+      <MolexLemmas>
+        <string>29kn</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>29kn</BasicStem>
+      <MSDs />
+      <Position>8</Position>
+      <SentenceIndex>2</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

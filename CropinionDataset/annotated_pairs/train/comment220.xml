@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dolaze na vrijeme , dobra hrana , gratis krajnica s čokoladom je bolja nego bilo koja iz pekara . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="dobra" link="+" sent="+" />
+						<pair aspect="čokoladom" anchor="dobra" link="" sent="" />
+						<pair aspect="hrana" anchor="gratis" link="" sent="" />
+						<pair aspect="čokoladom" anchor="gratis" link="+" sent="+" />
+						<pair aspect="hrana" anchor="bolja" link="" sent="" />
+						<pair aspect="čokoladom" anchor="bolja" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

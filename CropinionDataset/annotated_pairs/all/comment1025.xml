@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>prije par dana sam naručila lazanje br . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; i palačinke zapečene sa šunkom i sirom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dobila sam lazanje koje nisu bile niti jedne s menija . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nimalo gljiva , rajčica je imala okus po ketchup - u , nista mesa , i puno bešamela . </text>
+				<pairs>
+						<pair aspect="gljiva" anchor="puno" link="" sent="" />
+						<pair aspect="rajčica" anchor="puno" link="" sent="" />
+						<pair aspect="okus" anchor="puno" link="" sent="" />
+						<pair aspect="mesa" anchor="puno" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>palačinke su bile suhe i natrpane šunkom , sa skoro ništa sira . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="suhe" link="+" sent="-" />
+						<pair aspect="sira" anchor="suhe" link="" sent="" />
+						<pair aspect="palačinke" anchor="ništa" link="" sent="" />
+						<pair aspect="sira" anchor="ništa" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bravo kum - . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>- </text>
+				<pairs />
+		</sentence>
+</comment>

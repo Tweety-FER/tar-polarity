@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Njihova mi je pizza uvijek fina, došla je još topla, premda smo čekali 15-ak minuta duže nego što su rekli.</Text>
+  <Rating>5</Rating>
+  <Source>http://pauza.hr/menu/stross</Source>
+</CrawlItem>

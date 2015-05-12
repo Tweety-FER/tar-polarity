@@ -1,0 +1,118 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf8"></meta>
+	<title>
+		Cropinion - Opinion Mining from Croatian User Reviews Dataset
+	</title>
+</head>
+<body>
+<h1>Cropinion - Opinion Mining from Croatian User Reviews Dataset</h1>
+<strong>Version:</strong> 1.0<br>
+<strong>Release date:</strong> August 8, 2013<br>
+<h2>1 Description</h2>
+
+<p> 
+The <a href="http://takelab.fer.hr/cropinion/PauzaHR-dataset.rar"> opinion mining from croatian user reviews dataset</a> 
+is a dataset of user reviews annotated with linguistic data.<br>
+Reviews were downloaded from <a href="http://www.pauza.hr"> pauza.hr </a> website.
+Spelling errors were corrected with <a href="http://aspell.net/">GNU Aspell</a> before annotation. <br>
+Language is simple, informal and domain specific.<br>
+The dataset accompanies the paper:
+</p>
+
+<p style="margin-left: 40px;">
+Goran Glavaš, Damir Korenčić, Jan Šnajder (2013). <strong>Aspect-Oriented Opinion Mining from User Reviews in Croatian</strong>. <br>
+Proceedings of the 51st Annual Meeting of the Association for
+Computational Linguistics (Volume 2: Short Papers), <br> 
+Sofia: Association for Computational Linguistics, 2013.
+</p>
+
+<p>
+The paper describes a method for aspect-based opinion mining.<br>
+First a lexicon of aspects (product features) and opinion clues (aspect attributes) is constructed.<br>
+Than pairing of aspects and clues is solved as a supervised classification problem.<br>
+Finally, prediction of overall review scores is performed using supervised classification and regression. <br>
+Among other features, the extracted aspect-clue pairs are used for score prediction. <br>
+</p>
+
+<p>Should you decide to use the dataset, please cite the paper. The BibTeX format is:
+
+</p><pre style="margin-left: 40px;">@InProceedings{glavas2013cropinion,<br>  title={Aspect-Oriented Opinion Mining from User Reviews in Croatian},<br>  author={Glava{\v s}, Goran and Koren{\v c}i{\' c}, Damir and {\v S}najder, Jan},<br>  booktitle={51st Annual Meeting of the Association for Computational Linguistics},<br>  year={2013},<br>  pages={in press}<br>}<br>
+</pre>
+<p style="margin-left: 40px;"></p> 
+
+<h2>2 Dataset</h2>
+
+The data is organized as follows.
+
+<h3>Dictionary</h3>
+
+Dictionaries of product aspects, positive and negative opinion clues. 
+
+<h3> Original reviews </h3>
+
+<h3> Preprocessed reviews </h3>
+
+Each user review contains the original text, the review score and the URL of the original comment. <br>
+Text is segmented into spellchecked sentences and sentences are tokenized. <br> 
+For each token, the following linguistic data is provided:
+
+<pre style="margin-left: 40px;">
+&lt;Word&gt;token&lt;/Word&gt; 
+&lt;Lemma&gt;word lemma&lt;/Lemma&gt; 
+&lt;MolexLemmas&gt; - list of (possible) lemmas constructed by <a href="http://takelab.fer.hr/data/molex/">MOLEX</a>
+	&lt;string&gt;lemma1&lt;/string&gt;
+	...
+&lt;/MolexLemmas&gt; 
+&lt;POSTag&gt;part-of-speech tag&lt;/POSTag&gt; 
+&lt;BasicStem&gt;word stem&lt;/BasicStem&gt; 
+&lt;MSDs&gt; - list of morphosyntactic descriptors
+	&lt;string&gt;descriptor1&lt;/string&gt;
+	...
+&lt;MSDs/&gt;
+</pre>
+
+After the sequence of tagged words, sequence of <a href="http://en.wikipedia.org/wiki/Dependency_grammar">dependency</a> relations follows.
+Each relation contains the following linguistic data:
+
+<pre style="margin-left: 40px;">
+&lt;DependencyRelation&gt;
+    &lt;Governor&gt;
+        &lt;Word&gt;governor word&lt;/Word&gt;
+	[same data as for sentence tokens]
+    &lt;/Governor&gt;
+    &lt;Dependent&gt;
+        &lt;Word&gt;dependent word&lt;/Word&gt;
+	[same data as for sentence tokens]
+    &lt;/Dependent&gt;
+    &lt;Relation&gt;type of dependency relation&lt;/Relation&gt;
+&lt;/DependencyRelation&gt;
+</pre>
+
+<p>
+For more details, please see the references provided in the paper at the beginning of Section 3.
+</p>
+
+<h3> Annotated pairs </h3>
+
+This folder contains reviews with manually annotated aspect-clue pairs. <br>
+The data is used for training and testing the pairing classifier. <br>
+For each sentence, all possible pairs are listed. Where pairing exists, value of 'link' is set to '+'. <br>
+
+<h2>3 License</h2>
+<p>
+Licensed under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>
+</p>
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width: 0pt;" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type"></span></p>
+</p>
+
+<p><br><br></p>
+
+<h2> Back to <a href="http://takelab.fer.hr/data/">TakeLab resources</a> </h2>
+
+<p> <br><br> </p>
+
+
+</body>
+</html>

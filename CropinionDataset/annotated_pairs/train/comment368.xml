@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dokaz da ipak je super restoran , gratis pizza za propuštenu dostavu , kao i uvijek hrana savršena </text>
+				<pairs>
+						<pair aspect="restoran" anchor="super" link="+" sent="+" />
+						<pair aspect="pizza" anchor="super" link="" sent="" />
+						<pair aspect="dostavu" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="super" link="" sent="" />
+						<pair aspect="restoran" anchor="gratis" link="" sent="" />
+						<pair aspect="pizza" anchor="gratis" link="+" sent="+" />
+						<pair aspect="dostavu" anchor="gratis" link="" sent="" />
+						<pair aspect="hrana" anchor="gratis" link="" sent="" />
+						<pair aspect="restoran" anchor="savršena" link="" sent="" />
+						<pair aspect="pizza" anchor="savršena" link="" sent="" />
+						<pair aspect="dostavu" anchor="savršena" link="" sent="" />
+						<pair aspect="hrana" anchor="savršena" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

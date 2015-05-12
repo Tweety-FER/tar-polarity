@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>burrito je ukusan ali je premala količina da zamjeni cijeli obrok . </text>
+				<pairs>
+						<pair aspect="količina" anchor="ukusan" link="" sent="" />
+						<pair aspect="količina" anchor="premala" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>stoga , cijena za tu količinu je previsoka . </text>
+				<pairs />
+		</sentence>
+</comment>

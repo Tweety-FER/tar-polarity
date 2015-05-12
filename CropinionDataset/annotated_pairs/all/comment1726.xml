@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je kasnila 15tak minuta , ali hrana je došla vruća . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="+" />
+						<pair aspect="hrana" anchor="kasnila" link="" sent="" />
+						<pair aspect="došla" anchor="kasnila" link="" sent="" />
+						<pair aspect="dostava" anchor="vruća" link="" sent="" />
+						<pair aspect="hrana" anchor="vruća" link="+" sent="+" />
+						<pair aspect="došla" anchor="vruća" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>porcije su velike i jako je ukusna hrana . </text>
+				<pairs>
+						<pair aspect="porcije" anchor="velike" link="+" sent="+" />
+						<pair aspect="hrana" anchor="velike" link="" sent="" />
+						<pair aspect="porcije" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>preporučam : d </text>
+				<pairs />
+		</sentence>
+</comment>

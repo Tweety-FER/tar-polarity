@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>asa , mislim da si nešto krivo služio / služila , dečko i ja smo naručili dvije porcije slatkih palačinka što je ukupno &lt;num&gt; kune ( to su &lt;num&gt; palačinke a porcije su ogromne tako da nas dvoje nismo uspjeli pojesti ni dvije cijele ) i donijeli su bez problema . </text>
+				<pairs>
+						<pair aspect="porcije" anchor="krivo" link="" sent="" />
+						<pair aspect="palačinka" anchor="krivo" link="" sent="" />
+						<pair aspect="palačinke" anchor="krivo" link="" sent="" />
+						<pair aspect="porcije" anchor="krivo" link="" sent="" />
+						<pair aspect="porcije" anchor="ogromne" link="+" sent="+" />
+						<pair aspect="palačinka" anchor="ogromne" link="" sent="" />
+						<pair aspect="palačinke" anchor="ogromne" link="" sent="" />
+						<pair aspect="porcije" anchor="ogromne" link="" sent="" />
+						<pair aspect="porcije" anchor="problema" link="" sent="" />
+						<pair aspect="palačinka" anchor="problema" link="" sent="" />
+						<pair aspect="palačinke" anchor="problema" link="" sent="" />
+						<pair aspect="porcije" anchor="problema" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>osim toga i u podacima o restoranu piše da je minimalna narudžba &lt;num&gt; kn ... </text>
+				<pairs />
+		</sentence>
+</comment>

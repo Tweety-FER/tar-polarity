@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava na vrijeme , možda čak i prije očekivanoga , hrana došla jako topla , i najhitnije jako ukusna , sve pohvale : ) </text>
+				<pairs>
+						<pair aspect="dostava" anchor="topla" link="" sent="" />
+						<pair aspect="hrana" anchor="topla" link="+" sent="" />
+						<pair aspect="došla" anchor="topla" link="" sent="" />
+						<pair aspect="sve" anchor="topla" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="" />
+						<pair aspect="došla" anchor="ukusna" link="" sent="" />
+						<pair aspect="sve" anchor="ukusna" link="" sent="" />
+						<pair aspect="dostava" anchor="pohvale" link="" sent="" />
+						<pair aspect="hrana" anchor="pohvale" link="" sent="" />
+						<pair aspect="došla" anchor="pohvale" link="" sent="" />
+						<pair aspect="sve" anchor="pohvale" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

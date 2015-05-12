@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>kasne &lt;num&gt; minuta s dostavom i onda još dostavljač bezobrazno odgovara na pitanje &amp; quot ; </text>
+				<pairs>
+						<pair aspect="dostavom" anchor="kasne" link="+" sent="-" />
+						<pair aspect="dostavljač" anchor="kasne" link="" sent="" />
+						<pair aspect="dostavom" anchor="bezobrazno" link="" sent="" />
+						<pair aspect="dostavljač" anchor="bezobrazno" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zašto kasne toliko &amp; quot ; ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>niti isprika , niti išta , samo drskost ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>tako da više ne naručujemo tamo ... </text>
+				<pairs />
+		</sentence>
+</comment>

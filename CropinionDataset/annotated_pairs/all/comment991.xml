@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>relativno dugo vrijeme dostave ( preko sat vremena , unatoč tome sto je udaljenost samo dvije ulice ) , hrana osrednja ( tjestenina s tunom i zapečeni grah + kroketi ) , ali svaka pohvala za male lepinje koje su fenomenalne </text>
+				<pairs>
+						<pair aspect="dostave" anchor="osrednja" link="" sent="" />
+						<pair aspect="hrana" anchor="osrednja" link="+" sent="-" />
+						<pair aspect="tjestenina" anchor="osrednja" link="+" sent="-" />
+						<pair aspect="tunom" anchor="osrednja" link="+" sent="-" />
+						<pair aspect="grah" anchor="osrednja" link="+" sent="-" />
+						<pair aspect="kroketi" anchor="osrednja" link="" sent="" />
+						<pair aspect="lepinje" anchor="osrednja" link="" sent="" />
+						<pair aspect="dostave" anchor="pohvala" link="" sent="" />
+						<pair aspect="hrana" anchor="pohvala" link="" sent="" />
+						<pair aspect="tjestenina" anchor="pohvala" link="" sent="" />
+						<pair aspect="tunom" anchor="pohvala" link="" sent="" />
+						<pair aspect="grah" anchor="pohvala" link="" sent="" />
+						<pair aspect="kroketi" anchor="pohvala" link="" sent="" />
+						<pair aspect="lepinje" anchor="pohvala" link="+" sent="+" />
+						<pair aspect="dostave" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="hrana" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="tjestenina" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="tunom" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="grah" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="kroketi" anchor="fenomenalne" link="" sent="" />
+						<pair aspect="lepinje" anchor="fenomenalne" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

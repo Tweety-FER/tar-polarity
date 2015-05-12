@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>brza i ljubazna dostava , hrana odlično zapakirana , veliki plus za hrpu povrća u varivu i domaći kruh . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="hrana" anchor="brza" link="" sent="" />
+						<pair aspect="povrća" anchor="brza" link="" sent="" />
+						<pair aspect="kruh" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="ljubazna" link="+" sent="+" />
+						<pair aspect="hrana" anchor="ljubazna" link="" sent="" />
+						<pair aspect="povrća" anchor="ljubazna" link="" sent="" />
+						<pair aspect="kruh" anchor="ljubazna" link="" sent="" />
+						<pair aspect="dostava" anchor="odlično" link="" sent="" />
+						<pair aspect="hrana" anchor="odlično" link="+" sent="+" />
+						<pair aspect="povrća" anchor="odlično" link="" sent="" />
+						<pair aspect="kruh" anchor="odlično" link="" sent="" />
+						<pair aspect="dostava" anchor="veliki" link="" sent="" />
+						<pair aspect="hrana" anchor="veliki" link="" sent="" />
+						<pair aspect="povrća" anchor="veliki" link="" sent="" />
+						<pair aspect="kruh" anchor="veliki" link="" sent="" />
+						<pair aspect="dostava" anchor="plus" link="" sent="" />
+						<pair aspect="hrana" anchor="plus" link="" sent="" />
+						<pair aspect="povrća" anchor="plus" link="+" sent="+" />
+						<pair aspect="kruh" anchor="plus" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka pohvala , naručujem i ubuduće ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>) </text>
+				<pairs />
+		</sentence>
+</comment>

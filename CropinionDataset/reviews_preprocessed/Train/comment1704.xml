@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Text>♥</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/halo-maksimirski-zmaj</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>♥ </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>♥</Word>
+          <Lemma>♥</Lemma>
+          <MolexLemmas>
+            <string>♥</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>♥</BasicStem>
+          <MSDs />
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations />
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>♥</Word>
+      <Lemma>♥</Lemma>
+      <MolexLemmas>
+        <string>♥</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>♥</BasicStem>
+      <MSDs />
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

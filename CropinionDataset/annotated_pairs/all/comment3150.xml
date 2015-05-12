@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>super klopa , super pizza , brza dostava svaka čast i ljubazni dostavljači </text>
+				<pairs>
+						<pair aspect="klopa" anchor="super" link="+" sent="+" />
+						<pair aspect="pizza" anchor="super" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="dostavljači" anchor="super" link="" sent="" />
+						<pair aspect="klopa" anchor="super" link="" sent="" />
+						<pair aspect="pizza" anchor="super" link="+" sent="+" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="dostavljači" anchor="super" link="" sent="" />
+						<pair aspect="klopa" anchor="brza" link="" sent="" />
+						<pair aspect="pizza" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostavljači" anchor="brza" link="" sent="" />
+						<pair aspect="klopa" anchor="čast" link="" sent="" />
+						<pair aspect="pizza" anchor="čast" link="" sent="" />
+						<pair aspect="dostava" anchor="čast" link="" sent="" />
+						<pair aspect="dostavljači" anchor="čast" link="" sent="" />
+						<pair aspect="klopa" anchor="ljubazni" link="" sent="" />
+						<pair aspect="pizza" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostava" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljači" anchor="ljubazni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

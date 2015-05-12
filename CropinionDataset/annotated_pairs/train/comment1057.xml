@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza odlična , dostava u roku zadanog vremena ili ranije . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="pizza" anchor="ranije" link="" sent="" />
+						<pair aspect="dostava" anchor="ranije" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve pohvale , dobili ste stalnu mušteriju ! </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+						<pair aspect="ste" anchor="pohvale" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

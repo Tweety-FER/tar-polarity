@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>rade problem oko dostave na zapadni kolodvor koji je doslovno &lt;num&gt; metara od općine centar u općini Črnomerec ... </text>
+				<pairs>
+						<pair aspect="dostave" anchor="problem" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>nikad vise kod njih iz principa . </text>
+				<pairs />
+		</sentence>
+</comment>

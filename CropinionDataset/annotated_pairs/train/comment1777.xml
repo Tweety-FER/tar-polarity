@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dobar čizburger , s pomfritom i čokoladnom tortom za tridesetak kuna , bomba . </text>
+				<pairs>
+						<pair aspect="pomfritom" anchor="dobar" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>čini mi se da ima razlike u količini sira od dostave do dostave , tako da nekad bude sjajan s ogromnim komadima sira a nekad je sir u tragovima . </text>
+				<pairs>
+						<pair aspect="količini" anchor="ogromnim" link="" sent="" />
+						<pair aspect="sira" anchor="ogromnim" link="" sent="" />
+						<pair aspect="dostave" anchor="ogromnim" link="" sent="" />
+						<pair aspect="dostave" anchor="ogromnim" link="" sent="" />
+						<pair aspect="sira" anchor="ogromnim" link="+" sent="+" />
+						<pair aspect="sir" anchor="ogromnim" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve u svemu , s obzirom na cijenu , super dostava . </text>
+				<pairs>
+						<pair aspect="sve" anchor="super" link="" sent="" />
+						<pair aspect="cijenu" anchor="super" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

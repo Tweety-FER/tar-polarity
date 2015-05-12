@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>oo odlično : ) meksička pizza naručena , stigla ne za &lt;num&gt; minuta , već za &lt;num&gt; minuta ... </text>
+				<pairs>
+						<pair aspect="meksička" anchor="odlično" link="+" sent="+" />
+						<pair aspect="pizza" anchor="odlično" link="+" sent="+" />
+						<pair aspect="stigla" anchor="odlično" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>već sam i prije naručivala kod njih , uvijek sve &lt;num&gt; , pa da ih tu i ja pohvalim konačno : ) ) </text>
+				<pairs>
+						<pair aspect="sam" anchor="pohvalim" link="" sent="" />
+						<pair aspect="sve" anchor="pohvalim" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

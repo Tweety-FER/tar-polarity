@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>došlo za pola sata , po ovom vremenu ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>okvirnoj vrijeme dostave &lt;num&gt; mina .. </text>
+				<pairs>
+						<pair aspect="dostave" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>piletina sa bambusom i gljivama odlična ! </text>
+				<pairs>
+						<pair aspect="piletina" anchor="odlična" link="+" sent="+" />
+						<pair aspect="gljivama" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

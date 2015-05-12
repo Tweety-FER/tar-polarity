@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili platu simpa plus za dvoje . </text>
+				<pairs>
+						<pair aspect="platu" anchor="simpa" link="" sent="" />
+						<pair aspect="platu" anchor="plus" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dobri su bili jedino kroketi i topla lepinja . </text>
+				<pairs>
+						<pair aspect="kroketi" anchor="dobri" link="+" sent="+" />
+						<pair aspect="lepinja" anchor="dobri" link="+" sent="+" />
+						<pair aspect="kroketi" anchor="topla" link="" sent="" />
+						<pair aspect="lepinja" anchor="topla" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ćevapi sirovi i neukusni , slanina masna , ražnjići također , pljeskavica se ne može nazvati pljeskavico . </text>
+				<pairs>
+						<pair aspect="ćevapi" anchor="sirovi" link="+" sent="-" />
+						<pair aspect="slanina" anchor="sirovi" link="" sent="" />
+						<pair aspect="ražnjići" anchor="sirovi" link="" sent="" />
+						<pair aspect="pljeskavica" anchor="sirovi" link="" sent="" />
+						<pair aspect="pljeskavico" anchor="sirovi" link="" sent="" />
+						<pair aspect="ćevapi" anchor="neukusni" link="+" sent="-" />
+						<pair aspect="slanina" anchor="neukusni" link="" sent="" />
+						<pair aspect="ražnjići" anchor="neukusni" link="" sent="" />
+						<pair aspect="pljeskavica" anchor="neukusni" link="" sent="" />
+						<pair aspect="pljeskavico" anchor="neukusni" link="" sent="" />
+						<pair aspect="ćevapi" anchor="masna" link="" sent="" />
+						<pair aspect="slanina" anchor="masna" link="+" sent="-" />
+						<pair aspect="ražnjići" anchor="masna" link="+" sent="-" />
+						<pair aspect="pljeskavica" anchor="masna" link="" sent="" />
+						<pair aspect="pljeskavico" anchor="masna" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>poslije smo morali jesti . </text>
+				<pairs>
+						<pair aspect="jesti" anchor="poslije" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

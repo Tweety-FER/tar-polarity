@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>najbolje pizze u zagrebu , sve su ukusne , bogate , sočne . </text>
+				<pairs>
+						<pair aspect="pizze" anchor="najbolje" link="+" sent="+" />
+						<pair aspect="sve" anchor="najbolje" link="" sent="" />
+						<pair aspect="pizze" anchor="ukusne" link="" sent="" />
+						<pair aspect="sve" anchor="ukusne" link="+" sent="+" />
+						<pair aspect="pizze" anchor="bogate" link="" sent="" />
+						<pair aspect="sve" anchor="bogate" link="+" sent="+" />
+						<pair aspect="pizze" anchor="sočne" link="" sent="" />
+						<pair aspect="sve" anchor="sočne" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostavljači ljubazni , dostava brza . </text>
+				<pairs>
+						<pair aspect="dostavljači" anchor="ljubazni" link="+" sent="+" />
+						<pair aspect="dostava" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljači" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve pohvale . </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio sam miješano meso + kajmak danas te su rekli da će dostava trajati 1h 15min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava je kasnila 20min , dostavljač je bio iznimno pristojan te se ispričao i nije mi naplatio kajmak ( što umanjuje račun za 15kn i to nije malo ) . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="-" />
+						<pair aspect="dostavljač" anchor="kasnila" link="" sent="" />
+						<pair aspect="dostava" anchor="iznimno" link="" sent="" />
+						<pair aspect="dostavljač" anchor="iznimno" link="" sent="" />
+						<pair aspect="dostava" anchor="pristojan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="pristojan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ovo još nisam doživio te je za svaku pohvalu . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>hrana je unatoč dugom čekanju bila topla i iznimno ukusa . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="čekanju" link="+" sent="-" />
+						<pair aspect="hrana" anchor="topla" link="+" sent="+" />
+						<pair aspect="hrana" anchor="iznimno" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bravo </text>
+				<pairs />
+		</sentence>
+</comment>

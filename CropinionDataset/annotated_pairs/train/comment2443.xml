@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava korektna . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ali palačinke prefine . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="prefine" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>tuna i sir , puno tune , jako zaštitno i jako ukusno . </text>
+				<pairs>
+						<pair aspect="tuna" anchor="puno" link="+" sent="+" />
+						<pair aspect="sir" anchor="puno" link="" sent="" />
+						<pair aspect="tune" anchor="puno" link="" sent="" />
+						<pair aspect="tuna" anchor="ukusno" link="+" sent="+" />
+						<pair aspect="sir" anchor="ukusno" link="+" sent="+" />
+						<pair aspect="tune" anchor="ukusno" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zasladila sam se twix palačinkom , velika je i isto tako jako ukusna . </text>
+				<pairs>
+						<pair aspect="sam" anchor="velika" link="" sent="" />
+						<pair aspect="twix" anchor="velika" link="+" sent="+" />
+						<pair aspect="palačinkom" anchor="velika" link="+" sent="+" />
+						<pair aspect="sam" anchor="ukusna" link="" sent="" />
+						<pair aspect="twix" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="palačinkom" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>odličan obrok u svakom slučaju ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>: ) </text>
+				<pairs />
+		</sentence>
+</comment>

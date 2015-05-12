@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>evo nakon sto sam nebrojeno puta naručio , ostavljam drugi komentar za od friends pun . </text>
+				<pairs>
+						<pair aspect="sam" anchor="pun" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>definitivno najbolji restoran na pauzi do sad od svih koje sam porvao ! </text>
+				<pairs>
+						<pair aspect="restoran" anchor="najbolji" link="+" sent="+" />
+						<pair aspect="sam" anchor="najbolji" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

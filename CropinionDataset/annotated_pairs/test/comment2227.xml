@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava brza , pizza ix jako dobra , ocjena 9/10 . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="" />
+						<pair aspect="pizza" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="dobra" link="" sent="" />
+						<pair aspect="pizza" anchor="dobra" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>jedina manja zamjerka je što je sadržaj s pizze skliznuo na jednu polovicu , vjerojatno ju je dostavljač postavio koso u vozilu ? </text>
+				<pairs>
+						<pair aspect="pizze" anchor="zamjerka" link="" sent="" />
+						<pair aspect="dostavljač" anchor="zamjerka" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>no zanemarivoj s obzirom na cijenu i kvalitetu . </text>
+				<pairs>
+						<pair aspect="cijenu" anchor="kvalitetu" link="" sent="" />
+						<pair aspect="kvalitetu" anchor="kvalitetu" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

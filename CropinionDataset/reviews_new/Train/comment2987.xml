@@ -1,0 +1,143 @@
+<CrawlItem>
+  <Text>Ne narucivat chilly</Text>
+  <Rating>1</Rating>
+  <Source>http://pauza.hr/menu/stross</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>ne naručivata chilly </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>ne</Word>
+          <Lemma>ne</Lemma>
+          <MolexLemmas>
+            <string>ne</string>
+          </MolexLemmas>
+          <POSTag>Q</POSTag>
+          <BasicStem>ne</BasicStem>
+          <MSDs />
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>naručivata</Word>
+          <Lemma>naručivata</Lemma>
+          <MolexLemmas>
+            <string>naručivata</string>
+          </MolexLemmas>
+          <POSTag>N</POSTag>
+          <BasicStem>naručivat</BasicStem>
+          <MSDs />
+          <Position>3</Position>
+          <SentenceIndex>1</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>chilly</Word>
+          <Lemma>chilly</Lemma>
+          <MolexLemmas>
+            <string>chilly</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>chilly</BasicStem>
+          <MSDs />
+          <Position>14</Position>
+          <SentenceIndex>2</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations>
+        <DependencyRelation>
+          <Governor>
+            <Word>naručivata</Word>
+            <Lemma>naručivata</Lemma>
+            <MolexLemmas>
+              <string>naručivata</string>
+            </MolexLemmas>
+            <POSTag>N</POSTag>
+            <BasicStem>naručivat</BasicStem>
+            <MSDs />
+            <Position>3</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>ne</Word>
+            <Lemma>ne</Lemma>
+            <MolexLemmas>
+              <string>ne</string>
+            </MolexLemmas>
+            <POSTag>Q</POSTag>
+            <BasicStem>ne</BasicStem>
+            <MSDs />
+            <Position>0</Position>
+            <SentenceIndex>0</SentenceIndex>
+          </Dependent>
+          <Relation>Oth</Relation>
+        </DependencyRelation>
+        <DependencyRelation>
+          <Governor>
+            <Word>chilly</Word>
+            <Lemma>chilly</Lemma>
+            <MolexLemmas>
+              <string>chilly</string>
+            </MolexLemmas>
+            <POSTag>A</POSTag>
+            <BasicStem>chilly</BasicStem>
+            <MSDs />
+            <Position>14</Position>
+            <SentenceIndex>2</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>naručivata</Word>
+            <Lemma>naručivata</Lemma>
+            <MolexLemmas>
+              <string>naručivata</string>
+            </MolexLemmas>
+            <POSTag>N</POSTag>
+            <BasicStem>naručivat</BasicStem>
+            <MSDs />
+            <Position>3</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Dependent>
+          <Relation>Sb</Relation>
+        </DependencyRelation>
+      </DependencyRelations>
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>ne</Word>
+      <Lemma>ne</Lemma>
+      <MolexLemmas>
+        <string>ne</string>
+      </MolexLemmas>
+      <POSTag>Q</POSTag>
+      <BasicStem>ne</BasicStem>
+      <MSDs />
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>naručivata</Word>
+      <Lemma>naručivata</Lemma>
+      <MolexLemmas>
+        <string>naručivata</string>
+      </MolexLemmas>
+      <POSTag>N</POSTag>
+      <BasicStem>naručivat</BasicStem>
+      <MSDs />
+      <Position>3</Position>
+      <SentenceIndex>1</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>chilly</Word>
+      <Lemma>chilly</Lemma>
+      <MolexLemmas>
+        <string>chilly</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>chilly</BasicStem>
+      <MSDs />
+      <Position>14</Position>
+      <SentenceIndex>2</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

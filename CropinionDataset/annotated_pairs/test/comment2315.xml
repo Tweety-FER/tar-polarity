@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>Expressa dostava , obilna porcija i ukusna hrana </text>
+				<pairs>
+						<pair aspect="dostava" anchor="obilna" link="" sent="" />
+						<pair aspect="porcija" anchor="obilna" link="+" sent="" />
+						<pair aspect="hrana" anchor="obilna" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="porcija" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

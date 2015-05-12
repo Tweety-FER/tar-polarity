@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>anđeoska pizza jako dobra ... </text>
+				<pairs>
+						<pair aspect="pizza" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>neki dan sam isprobao i tjesteninu s anđeoskim umakom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve u svemu kvalitetno i dobro . </text>
+				<pairs>
+						<!-- pitanje koliko je ovo ispravno, jer ovaj sve je dio idiomatske fraze sve u svemu -->
+						<pair aspect="sve" anchor="kvalitetno" link="+" sent="+" />
+						<pair aspect="sve" anchor="dobro" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>super je roštilj ! </text>
+				<pairs>
+						<pair aspect="roštilj" anchor="super" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pljeskavica , kunić , ražnjić ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>odlično ! </text>
+				<pairs />
+		</sentence>
+</comment>

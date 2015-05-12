@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jako dobra pileća salata , brza i ljubazna dostava &amp; let ; </text>
+				<pairs>
+						<pair aspect="salata" anchor="dobra" link="+" sent="+" />
+						<pair aspect="dostava" anchor="dobra" link="" sent="" />
+						<pair aspect="salata" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="salata" anchor="ljubazna" link="" sent="" />
+						<pair aspect="dostava" anchor="ljubazna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; </text>
+				<pairs />
+		</sentence>
+</comment>

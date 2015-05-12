@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlična hrana , dostava dođe otprilike u vrijeme koje je nabavljenoj ( desetak mina gore dole ) . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="dođe" anchor="odlična" link="" sent="" />
+						<pair aspect="hrana" anchor="mina" link="" sent="" />
+						<pair aspect="dostava" anchor="mina" link="" sent="" />
+						<pair aspect="dođe" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast </text>
+				<pairs />
+		</sentence>
+</comment>

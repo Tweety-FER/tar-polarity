@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>čekao sam jelo sat vremena , nazivao restoran i dobio odgovor : &amp; quot ; </text>
+				<pairs>
+						<pair aspect="sam" anchor="čekao" link="+" sent="-" />
+						<pair aspect="jelo" anchor="čekao" link="+" sent="-" />
+						<pair aspect="restoran" anchor="čekao" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zaboravljena je narudžba , jeste još zainteresirani ? </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nisam hvala lijepa , niti mislim da ću ikad više biti za vaš restoran . </text>
+				<pairs>
+						<pair aspect="restoran" anchor="hvala" link="" sent="" />
+						<pair aspect="restoran" anchor="lijepa" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>šteta jer hrana im je solidna , ali sa dostavom sam kod njih već imao epizode , ima raniji komentar . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="solidna" link="+" sent="+" />
+						<pair aspect="dostavom" anchor="solidna" link="" sent="" />
+						<pair aspect="sam" anchor="solidna" link="" sent="" />
+						<pair aspect="hrana" anchor="raniji" link="" sent="" />
+						<pair aspect="dostavom" anchor="raniji" link="" sent="" />
+						<pair aspect="sam" anchor="raniji" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>eto jedan restoran prekrižena s moje liste . </text>
+				<pairs />
+		</sentence>
+</comment>

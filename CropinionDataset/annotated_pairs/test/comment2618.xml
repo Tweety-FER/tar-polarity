@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava bila i prije nego je trebala , dali speci pljeska , salata i kruh skroz fini . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="fini" link="" sent="" />
+						<pair aspect="salata" anchor="fini" link="+" sent="" />
+						<pair aspect="kruh" anchor="fini" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pohvale ! </text>
+				<pairs />
+		</sentence>
+</comment>

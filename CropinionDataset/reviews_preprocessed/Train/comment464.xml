@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Text>sve za 6!!!</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/sombrero-catering-remiza</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>sve za &lt;num&gt; !!! </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>sve</Word>
+          <Lemma>sav</Lemma>
+          <MolexLemmas>
+            <string>sve</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>sve</BasicStem>
+          <MSDs />
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>za</Word>
+          <Lemma>za</Lemma>
+          <MolexLemmas>
+            <string>za</string>
+          </MolexLemmas>
+          <POSTag>S</POSTag>
+          <BasicStem>za</BasicStem>
+          <MSDs />
+          <Position>4</Position>
+          <SentenceIndex>1</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>&lt;num&gt;</Word>
+          <Lemma>@card@</Lemma>
+          <MolexLemmas>
+            <string>&lt;num&gt;</string>
+          </MolexLemmas>
+          <POSTag>M</POSTag>
+          <BasicStem>&lt;num&gt;</BasicStem>
+          <MSDs />
+          <Position>7</Position>
+          <SentenceIndex>2</SentenceIndex>
+        </CROTaggedWord>
+        <CROTaggedWord>
+          <Word>!!!</Word>
+          <Lemma>!!!</Lemma>
+          <MolexLemmas>
+            <string>!!!</string>
+          </MolexLemmas>
+          <POSTag>A</POSTag>
+          <BasicStem>!!!</BasicStem>
+          <MSDs />
+          <Position>13</Position>
+          <SentenceIndex>3</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations>
+        <DependencyRelation>
+          <Governor>
+            <Word>!!!</Word>
+            <Lemma>!!!</Lemma>
+            <MolexLemmas>
+              <string>!!!</string>
+            </MolexLemmas>
+            <POSTag>A</POSTag>
+            <BasicStem>!!!</BasicStem>
+            <MSDs />
+            <Position>13</Position>
+            <SentenceIndex>3</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>sve</Word>
+            <Lemma>sav</Lemma>
+            <MolexLemmas>
+              <string>sve</string>
+            </MolexLemmas>
+            <POSTag>A</POSTag>
+            <BasicStem>sve</BasicStem>
+            <MSDs />
+            <Position>0</Position>
+            <SentenceIndex>0</SentenceIndex>
+          </Dependent>
+          <Relation>Atv</Relation>
+        </DependencyRelation>
+        <DependencyRelation>
+          <Governor>
+            <Word>sve</Word>
+            <Lemma>sav</Lemma>
+            <MolexLemmas>
+              <string>sve</string>
+            </MolexLemmas>
+            <POSTag>A</POSTag>
+            <BasicStem>sve</BasicStem>
+            <MSDs />
+            <Position>0</Position>
+            <SentenceIndex>0</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>za</Word>
+            <Lemma>za</Lemma>
+            <MolexLemmas>
+              <string>za</string>
+            </MolexLemmas>
+            <POSTag>S</POSTag>
+            <BasicStem>za</BasicStem>
+            <MSDs />
+            <Position>4</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Dependent>
+          <Relation>Prep</Relation>
+        </DependencyRelation>
+        <DependencyRelation>
+          <Governor>
+            <Word>za</Word>
+            <Lemma>za</Lemma>
+            <MolexLemmas>
+              <string>za</string>
+            </MolexLemmas>
+            <POSTag>S</POSTag>
+            <BasicStem>za</BasicStem>
+            <MSDs />
+            <Position>4</Position>
+            <SentenceIndex>1</SentenceIndex>
+          </Governor>
+          <Dependent>
+            <Word>&lt;num&gt;</Word>
+            <Lemma>@card@</Lemma>
+            <MolexLemmas>
+              <string>&lt;num&gt;</string>
+            </MolexLemmas>
+            <POSTag>M</POSTag>
+            <BasicStem>&lt;num&gt;</BasicStem>
+            <MSDs />
+            <Position>7</Position>
+            <SentenceIndex>2</SentenceIndex>
+          </Dependent>
+          <Relation>Obj</Relation>
+        </DependencyRelation>
+      </DependencyRelations>
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>sve</Word>
+      <Lemma>sav</Lemma>
+      <MolexLemmas>
+        <string>sve</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>sve</BasicStem>
+      <MSDs />
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>za</Word>
+      <Lemma>za</Lemma>
+      <MolexLemmas>
+        <string>za</string>
+      </MolexLemmas>
+      <POSTag>S</POSTag>
+      <BasicStem>za</BasicStem>
+      <MSDs />
+      <Position>4</Position>
+      <SentenceIndex>1</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>&lt;num&gt;</Word>
+      <Lemma>@card@</Lemma>
+      <MolexLemmas>
+        <string>&lt;num&gt;</string>
+      </MolexLemmas>
+      <POSTag>M</POSTag>
+      <BasicStem>&lt;num&gt;</BasicStem>
+      <MSDs />
+      <Position>7</Position>
+      <SentenceIndex>2</SentenceIndex>
+    </CROTaggedWord>
+    <CROTaggedWord>
+      <Word>!!!</Word>
+      <Lemma>!!!</Lemma>
+      <MolexLemmas>
+        <string>!!!</string>
+      </MolexLemmas>
+      <POSTag>A</POSTag>
+      <BasicStem>!!!</BasicStem>
+      <MSDs />
+      <Position>13</Position>
+      <SentenceIndex>3</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

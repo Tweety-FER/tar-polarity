@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>više nego zadovoljan hranom i uslugom ! </text>
+				<pairs>
+						<pair aspect="hranom" anchor="zadovoljan" link="+" sent="+" />
+						<pair aspect="uslugom" anchor="zadovoljan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hrana je ukusna , cijene su više nego pristupačne te brza dostava , a živim na drugom kraju grada - i svakako ljubazni dostavljači . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="cijene" anchor="ukusna" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="dostavljači" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+						<pair aspect="dostava" anchor="cijene" link="" sent="" />
+						<pair aspect="dostavljači" anchor="cijene" link="" sent="" />
+						<pair aspect="hrana" anchor="brza" link="" sent="" />
+						<pair aspect="cijene" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostavljači" anchor="brza" link="" sent="" />
+						<pair aspect="hrana" anchor="ljubazni" link="" sent="" />
+						<pair aspect="cijene" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostava" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljači" anchor="ljubazni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>velika pohvala i preporuka ! </text>
+				<pairs />
+		</sentence>
+</comment>

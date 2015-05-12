@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dobili smo skroz krivu hranu od one koju smo naručili !! </text>
+				<pairs>
+						<pair aspect="hranu" anchor="krivu" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>nakon što smo ih zvali da promijene narudžbu ili da mi vrate novac , neljubazna gospođa je rekla da ona nema veze s tim i da neka sama dođem u restoran po novu hranu ili novac . </text>
+				<pairs>
+						<pair aspect="dođem" anchor="neljubazna" link="" sent="" />
+						<pair aspect="restoran" anchor="neljubazna" link="" sent="" />
+						<pair aspect="hranu" anchor="neljubazna" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>stvarno se super odnose prema klijentima . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>više nikad od njih ne naručujem ! </text>
+				<pairs />
+		</sentence>
+</comment>

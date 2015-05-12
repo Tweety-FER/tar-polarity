@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>od ovog restorana više nećemo naručivati jer smo dva puta imali negativnog iskustva kojeg nismo imali ni sa jednim restoranom sa pauze . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u petak smo naručivali i restoran nam se javio nakon &lt;num&gt; minuta da nam neće biti u mogućnosti dostaviti hranu zbog velike gužve i kiše . </text>
+				<pairs>
+						<pair aspect="restoran" anchor="velike" link="" sent="" />
+						<pair aspect="hranu" anchor="velike" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ako već otkazuje te narudžbe napravite to ranije kada ljudi mogu potrošiti planirano vrijeme ručka na neki pouzdaniji restoran . </text>
+				<pairs>
+						<pair aspect="restoran" anchor="ranije" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pošto smo pod &lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>još mogli oprostiti zbog vremena , danas je simbola plus catering dokazao da taj potez nije bio slučajan , već odraz poslovne nesposobnosti . </text>
+				<pairs>
+						<pair aspect="catering" anchor="plus" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>putem dostave su nekako uspjeli izgubiti cijelu pizzu ... </text>
+				<pairs>
+						<pair aspect="dostave" anchor="izgubiti" link="" sent="" />
+						<pair aspect="pizzu" anchor="izgubiti" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>vozač je rekao da je pizza sva &amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>mokra i zgnječena &amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i da nam je ne želi dati ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nakon toga smo zatražili račun da oduzmemo cijenu pizze , na što je vozač rekao da ga nema ?!??! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>molim lijepo .... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ako nemate račun ne morate se ni baviti ovim poslom .... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>plus svemu je da je hrana prosječno dobra , ali to jednostavno nije dovoljno da ovaj restoran dobije ikakvu preporuku . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="plus" link="" sent="" />
+						<pair aspect="restoran" anchor="plus" link="" sent="" />
+						<pair aspect="hrana" anchor="prosječno" link="+" sent="-" />
+						<pair aspect="restoran" anchor="prosječno" link="" sent="" />
+						<pair aspect="hrana" anchor="dobra" link="+" sent="+" />
+						<pair aspect="restoran" anchor="dobra" link="" sent="" />
+						<pair aspect="hrana" anchor="dovoljno" link="" sent="" />
+						<pair aspect="restoran" anchor="dovoljno" link="" sent="" />
+						<pair aspect="hrana" anchor="preporuku" link="" sent="" />
+						<pair aspect="restoran" anchor="preporuku" link="-" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

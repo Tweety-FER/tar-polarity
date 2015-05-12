@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>najbolja dostava ikad : ) uz pola metra snijega vani , dostava stigla za 15min ! </text>
+				<pairs>
+						<pair aspect="dostava" anchor="najbolja" link="+" sent="" />
+						<pair aspect="dostava" anchor="najbolja" link="" sent="" />
+						<pair aspect="stigla" anchor="najbolja" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast : ) </text>
+				<pairs />
+		</sentence>
+</comment>

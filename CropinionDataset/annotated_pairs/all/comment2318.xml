@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>bečki odrezak došao na vrijeme i sve došlo uz jelo kako i piše ( palačinka ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>) , samo prilog / pomfrit nije bas bio ukusan . </text>
+				<pairs>
+						<pair aspect="pomfrit" anchor="ukusan" link="-" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

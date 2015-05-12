@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>sve stiglo na vrijeme , pizza odlična , a palačinka gratis mi je bila baš šećer na kraju . </text>
+				<pairs>
+						<pair aspect="sve" anchor="odlična" link="" sent="" />
+						<pair aspect="stiglo" anchor="odlična" link="" sent="" />
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+						<pair aspect="palačinka" anchor="odlična" link="" sent="" />
+						<pair aspect="sve" anchor="gratis" link="" sent="" />
+						<pair aspect="stiglo" anchor="gratis" link="" sent="" />
+						<pair aspect="pizza" anchor="gratis" link="" sent="" />
+						<pair aspect="palačinka" anchor="gratis" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bravo ! </text>
+				<pairs />
+		</sentence>
+</comment>

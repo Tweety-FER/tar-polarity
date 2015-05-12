@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>definitivno najbolji catering za sve ! </text>
+				<pairs>
+						<pair aspect="catering" anchor="najbolji" link="+" sent="" />
+						<pair aspect="sve" anchor="najbolji" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>već godinama naručujem i uvijek sve odlično . </text>
+				<pairs>
+						<pair aspect="sve" anchor="odlično" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostava uvijek dodaje prije nego sto najave . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i nikada nisam ostao gladan : d tlakomjer doma svima preporuka za pizzu koju sam sastavim jer je odlična žustro formati + kulen </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="gladan" link="" sent="" />
+						<pair aspect="sam" anchor="gladan" link="" sent="" />
+						<pair aspect="kulen" anchor="gladan" link="" sent="" />
+						<pair aspect="pizzu" anchor="preporuka" link="+" sent="" />
+						<pair aspect="sam" anchor="preporuka" link="" sent="" />
+						<pair aspect="kulen" anchor="preporuka" link="" sent="" />
+						<pair aspect="pizzu" anchor="odlična" link="+" sent="" />
+						<pair aspect="sam" anchor="odlična" link="" sent="" />
+						<pair aspect="kulen" anchor="odlična" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

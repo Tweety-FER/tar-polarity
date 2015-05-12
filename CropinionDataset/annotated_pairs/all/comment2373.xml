@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava u roku . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>hrana jako ukusna , posebice sarme . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

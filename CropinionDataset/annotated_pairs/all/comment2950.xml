@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza s gljivama je super . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="super" link="+" sent="" />
+						<pair aspect="gljivama" anchor="super" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>imam samo jednu malu zamjerku - prebrzoj je došla : d . </text>
+				<pairs>
+						<pair aspect="došla" anchor="zamjerku" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pisalo je da stiže za &lt;num&gt; mina , ali je stigla za &lt;num&gt; pa me uhvatila pod tušem . </text>
+				<pairs>
+						<pair aspect="stiže" anchor="mina" link="" sent="" />
+						<pair aspect="stigla" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hvala dostavljaču na čekanju : d </text>
+				<pairs>
+						<pair aspect="dostavljaču" anchor="hvala" link="+" sent="" />
+						<pair aspect="dostavljaču" anchor="čekanju" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

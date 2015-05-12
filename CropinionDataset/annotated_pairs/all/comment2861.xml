@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizze capriciosa i tuna , dobre . </text>
+				<pairs>
+						<pair aspect="pizze" anchor="dobre" link="+" sent="" />
+						<pair aspect="tuna" anchor="dobre" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>inače uvijek dostava na vrijeme i toplo jelo . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="toplo" link="" sent="" />
+						<pair aspect="jelo" anchor="toplo" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

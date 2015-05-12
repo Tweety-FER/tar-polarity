@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dnevni meniji ( punjeni pileći sa pomfrijem i obični file sa rižom ) + salata slatko zelje + palačinke , sve ok . </text>
+				<pairs>
+						<pair aspect="pomfrijem" anchor="ok" link="+" sent="+" />
+						<pair aspect="file" anchor="ok" link="+" sent="+" />
+						<pair aspect="rižom" anchor="ok" link="+" sent="+" />
+						<pair aspect="salata" anchor="ok" link="+" sent="+" />
+						<pair aspect="palačinke" anchor="ok" link="+" sent="+" />
+						<pair aspect="sve" anchor="ok" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>doduše , teško je tu nešto čeznut . </text>
+				<pairs />
+		</sentence>
+</comment>

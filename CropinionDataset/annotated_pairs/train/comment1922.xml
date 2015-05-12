@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>uvijek naručujem , danas prvi put preko nesta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>najbolja pizza u kvartu ( Slavica ) , vjerujte mi a i šire . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="najbolja" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zakon ste ! </text>
+				<pairs>
+						<pair aspect="ste" anchor="zakon" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>: ) ) </text>
+				<pairs />
+		</sentence>
+</comment>

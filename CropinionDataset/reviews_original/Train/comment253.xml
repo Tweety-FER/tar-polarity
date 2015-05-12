@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Pizzeria Strossmayer je pravi primjer kako bi svi ostali trebaju izgledati.Jela jako fina, ne štede sa dodacima, dostava na vrijeme (ali svaki puta do sada koliko smo naručili) ! Bravo od nas i prezadovoljni smo!</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

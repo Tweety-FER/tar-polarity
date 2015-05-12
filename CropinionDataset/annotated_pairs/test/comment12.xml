@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jako dobra pizza br . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="dobra" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; , dostava na vrijeme ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>bez greške svaki puta </text>
+				<pairs />
+		</sentence>
+</comment>

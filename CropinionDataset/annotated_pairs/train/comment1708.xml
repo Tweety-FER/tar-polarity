@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlično i ogromne porcije , bit će i za večeru : ) riža malo prezacinjena za moj ukus , ali inače ne volim puno tih ljut kastih začina pa ću sljedeći put naglasiti da ih stave manje : ) sve u svemu , odlično ! </text>
+				<pairs>
+						<pair aspect="porcije" anchor="odlično" link="+" sent="+" />
+						<pair aspect="riža" anchor="odlično" link="" sent="" />
+						<pair aspect="začina" anchor="odlično" link="" sent="" />
+						<pair aspect="sve" anchor="odlično" link="" sent="" />
+						<pair aspect="porcije" anchor="ogromne" link="+" sent="+" />
+						<pair aspect="riža" anchor="ogromne" link="" sent="" />
+						<pair aspect="začina" anchor="ogromne" link="" sent="" />
+						<pair aspect="sve" anchor="ogromne" link="" sent="" />
+						<pair aspect="porcije" anchor="volim" link="" sent="" />
+						<pair aspect="riža" anchor="volim" link="" sent="" />
+						<pair aspect="začina" anchor="volim" link="" sent="" />
+						<pair aspect="sve" anchor="volim" link="" sent="" />
+						<pair aspect="porcije" anchor="puno" link="" sent="" />
+						<pair aspect="riža" anchor="puno" link="" sent="" />
+						<pair aspect="začina" anchor="puno" link="" sent="" />
+						<pair aspect="sve" anchor="puno" link="" sent="" />
+						<pair aspect="porcije" anchor="odlično" link="" sent="" />
+						<pair aspect="riža" anchor="odlično" link="" sent="" />
+						<pair aspect="začina" anchor="odlično" link="" sent="" />
+						<pair aspect="sve" anchor="odlično" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Naručio pizzu u nedjelju u 17:22, javljeno da će biti za sat vremena (!) i još kasne više od pola sata. Hvala, odoh naručiti negdje drugdje, a ovu pizzu ću vratiti u restoran.</Text>
+  <Rating>0.5</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

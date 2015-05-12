@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Burrito je ukusan ali je premala količina da zamjeni cijeli obrok. Stoga, cijena za tu količinu je previsoka.</Text>
+  <Rating>4</Rating>
+  <Source>http://pauza.hr/menu/spica-catering</Source>
+</CrawlItem>

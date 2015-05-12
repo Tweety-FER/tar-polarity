@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pilad jest steak - super komad mesine na žaru , veliki pomfrit i još extra čili grah ... </text>
+				<pairs>
+						<pair aspect="jest" anchor="super" link="" sent="" />
+						<pair aspect="steak" anchor="super" link="+" sent="+" />
+						<pair aspect="pomfrit" anchor="super" link="" sent="" />
+						<pair aspect="grah" anchor="super" link="" sent="" />
+						<pair aspect="jest" anchor="veliki" link="" sent="" />
+						<pair aspect="steak" anchor="veliki" link="" sent="" />
+						<pair aspect="pomfrit" anchor="veliki" link="+" sent="+" />
+						<pair aspect="grah" anchor="veliki" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>milina ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>bravo dečki ( i cure ) , westfood ruješ !!! </text>
+				<pairs />
+		</sentence>
+</comment>

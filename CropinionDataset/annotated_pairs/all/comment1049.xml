@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>već sat vremena čekam pizzu koja je trebala stići kroz &lt;num&gt; minuta . </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="čekam" link="+" sent="-" />
+						<pair aspect="stići" anchor="čekam" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

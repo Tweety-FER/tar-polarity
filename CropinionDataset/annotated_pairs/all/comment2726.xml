@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dečki ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sat je ovo , svaki dan naručujem od vas ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nemojte se pokvariti - a na dobrom ste putu , oke , par puta se zalomi svakom - ali chimichanga def pollo - ni traga luku , paprici , grahu , kukuruzu . </text>
+				<pairs>
+						<pair aspect="ste" anchor="dobrom" link="" sent="" />
+						<pair aspect="pollo" anchor="dobrom" link="" sent="" />
+						<pair aspect="luku" anchor="dobrom" link="" sent="" />
+						<pair aspect="paprici" anchor="dobrom" link="" sent="" />
+						<pair aspect="grahu" anchor="dobrom" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ni traga tome ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>samo piletina i vrhnje zamotani u tortilju , ni salaš umaka , ništa ... </text>
+				<pairs>
+						<pair aspect="piletina" anchor="ništa" link="" sent="" />
+						<pair aspect="umaka" anchor="ništa" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>+ riža ? </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>koja ni ne dolazi u chimichangi def pollo . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nit sam to naručio nit je fino , baš razočaranje . </text>
+				<pairs>
+						<pair aspect="sam" anchor="fino" link="" sent="" />
+						<pair aspect="sam" anchor="razočaranje" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>+ kraća svijetla dlaka u enchiladi . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>super . </text>
+				<pairs />
+		</sentence>
+</comment>

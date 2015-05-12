@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>oke ja sam dobila krivu narudžbu ... </text>
+				<pairs>
+						<pair aspect="sam" anchor="krivu" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naručila sam fiziku i palačinke .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i dobila sam umjesto fizike i &lt;num&gt; palačinke , &lt;num&gt; palačinke ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>kako su to uspjeli .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; _ o </text>
+				<pairs />
+		</sentence>
+</comment>

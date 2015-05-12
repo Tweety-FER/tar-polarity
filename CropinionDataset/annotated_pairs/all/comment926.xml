@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odličan sendvič s klenom i malo hladna , ali svejedno ukusna , miješana pizza . </text>
+				<pairs>
+						<pair aspect="sendvič" anchor="odličan" link="+" sent="+" />
+						<pair aspect="pizza" anchor="odličan" link="" sent="" />
+						<pair aspect="sendvič" anchor="hladna" link="" sent="" />
+						<pair aspect="pizza" anchor="hladna" link="+" sent="-" />
+						<pair aspect="sendvič" anchor="ukusna" link="" sent="" />
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

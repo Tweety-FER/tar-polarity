@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>voljela bih probati , čula sam puno dobrih stvari o palačinkama , ali minimalna narudžba od &lt;num&gt; kn je previsoka . </text>
+				<pairs>
+						<pair aspect="sam" anchor="voljela" link="" sent="" />
+						<pair aspect="palačinkama" anchor="voljela" link="" sent="" />
+						<pair aspect="sam" anchor="puno" link="" sent="" />
+						<pair aspect="palačinkama" anchor="puno" link="" sent="" />
+						<pair aspect="sam" anchor="dobrih" link="" sent="" />
+						<pair aspect="palačinkama" anchor="dobrih" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>od drugih bez problema mogu naručiti hranu iznosa 30-40 kn . </text>
+				<pairs>
+						<pair aspect="hranu" anchor="problema" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>nadam se da će se i to promijeniti . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pozdrav ! </text>
+				<pairs />
+		</sentence>
+</comment>

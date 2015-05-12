@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>još jednom - svake pohvale ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>stiglo upola predvidjelo vremena , sve savršeno kao i uvijek : ) </text>
+				<pairs>
+						<pair aspect="stiglo" anchor="savršeno" link="" sent="" />
+						<pair aspect="sve" anchor="savršeno" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

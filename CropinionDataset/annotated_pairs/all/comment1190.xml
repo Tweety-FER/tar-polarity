@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlične pizza verona i pizza piša ... </text>
+				<pairs>
+						<pair aspect="pizza" anchor="odlične" link="+" sent="" />
+						<pair aspect="pizza" anchor="odlične" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>a dobra je i hladna salata s piletinom ! </text>
+				<pairs>
+						<pair aspect="salata" anchor="dobra" link="+" sent="" />
+						<pair aspect="piletinom" anchor="dobra" link="+" sent="" />
+						<pair aspect="salata" anchor="hladna" link="+" sent="" />
+						<pair aspect="piletinom" anchor="hladna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>često naručujemo iz dvojke , moja preporuka </text>
+				<pairs />
+		</sentence>
+</comment>

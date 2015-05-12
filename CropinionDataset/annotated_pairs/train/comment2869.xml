@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava brza , dostavljač jako ugodan , klopa ( capriciosa i veselio ) odlična . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostavljač" anchor="brza" link="" sent="" />
+						<pair aspect="klopa" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="ugodan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ugodan" link="+" sent="+" />
+						<pair aspect="klopa" anchor="ugodan" link="" sent="" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="dostavljač" anchor="odlična" link="" sent="" />
+						<pair aspect="klopa" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>preporučujem svakome za odličan gabele ! </text>
+				<pairs />
+		</sentence>
+</comment>

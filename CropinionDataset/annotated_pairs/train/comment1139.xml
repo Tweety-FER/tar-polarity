@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gombao piletina s tjesteninom s povrćem i tri vrste mesa s povrćem , predobroj !!! </text>
+				<pairs>
+						<pair aspect="piletina" anchor="predobroj" link="+" sent="+" />
+						<pair aspect="tjesteninom" anchor="predobroj" link="+" sent="+" />
+						<pair aspect="povrćem" anchor="predobroj" link="+" sent="+" />
+						<pair aspect="mesa" anchor="predobroj" link="+" sent="+" />
+						<pair aspect="povrćem" anchor="predobroj" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>stiglo prije vremena .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u finom pakiranju ... </text>
+				<pairs>
+						<pair aspect="pakiranju" anchor="finom" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>porcije obilne . </text>
+				<pairs>
+						<pair aspect="porcije" anchor="obilne" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ljuto , ali zakon ! </text>
+				<pairs />
+		</sentence>
+</comment>

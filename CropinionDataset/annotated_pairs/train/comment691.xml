@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je bila točna ( koju minutu kasnije ali nemojmo biti ičije ) . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="točna" link="+" sent="+" />
+						<pair aspect="dostava" anchor="kasnije" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>klopa je bila izvrsna , a i palačinke su fine . </text>
+				<pairs>
+						<pair aspect="klopa" anchor="izvrsna" link="+" sent="+" />
+						<pair aspect="palačinke" anchor="izvrsna" link="" sent="" />
+						<pair aspect="klopa" anchor="fine" link="" sent="" />
+						<pair aspect="palačinke" anchor="fine" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

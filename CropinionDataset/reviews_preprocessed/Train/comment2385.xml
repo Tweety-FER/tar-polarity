@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Text>Šestica</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/sandwich-bar-kebab</Source>
+  <Sentences>
+    <SentenceInfo>
+      <Text>šestica </Text>
+      <StartPosition>0</StartPosition>
+      <TaggedWords>
+        <CROTaggedWord>
+          <Word>šestica</Word>
+          <Lemma>šestica</Lemma>
+          <MolexLemmas>
+            <string>šestica</string>
+          </MolexLemmas>
+          <POSTag>N</POSTag>
+          <BasicStem>šestic</BasicStem>
+          <MSDs>
+            <string>N=fpg</string>
+            <string>N=fsn</string>
+          </MSDs>
+          <Position>0</Position>
+          <SentenceIndex>0</SentenceIndex>
+        </CROTaggedWord>
+      </TaggedWords>
+      <DependencyRelations />
+    </SentenceInfo>
+  </Sentences>
+  <TaggedWords>
+    <CROTaggedWord>
+      <Word>šestica</Word>
+      <Lemma>šestica</Lemma>
+      <MolexLemmas>
+        <string>šestica</string>
+      </MolexLemmas>
+      <POSTag>N</POSTag>
+      <BasicStem>šestic</BasicStem>
+      <MSDs>
+        <string>N=fpg</string>
+        <string>N=fsn</string>
+      </MSDs>
+      <Position>0</Position>
+      <SentenceIndex>0</SentenceIndex>
+    </CROTaggedWord>
+  </TaggedWords>
+</CrawlItem>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>obrazac kojim stiže potvrda narudžbe i vrijeme dostave u slučaju narudžbe hrane iz vegehopa očito su više sugestija od točnog vremena . </text>
+				<pairs>
+						<pair aspect="stiže" anchor="točnog" link="" sent="" />
+						<pair aspect="dostave" anchor="točnog" link="" sent="" />
+						<pair aspect="hrane" anchor="točnog" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>molim da ubuduće vrijeme dostave prikazujeme u realnim gabaritima . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nije bio prvi put . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>hvala . </text>
+				<pairs />
+		</sentence>
+</comment>

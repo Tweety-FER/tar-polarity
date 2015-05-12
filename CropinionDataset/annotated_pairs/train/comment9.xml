@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio sam pizzu br . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; + vrhnje , vrijeme dostave stavili na 40min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>stiglo za 25min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>skoro vruća , pizza bogata navedenim sastojcima , dobro pečena i ukusna , dostavljač ljubazan , zaslužio tringlt , sve u svemu jako sam zadovoljan ! </text>
+				<pairs>
+						<pair aspect="pizza" anchor="vruća" link="+" sent="+" />
+						<pair aspect="sastojcima" anchor="vruća" link="" sent="" />
+						<pair aspect="dostavljač" anchor="vruća" link="" sent="" />
+						<pair aspect="sve" anchor="vruća" link="" sent="" />
+						<pair aspect="sam" anchor="vruća" link="" sent="" />
+						<pair aspect="pizza" anchor="bogata" link="+" sent="+" />
+						<pair aspect="sastojcima" anchor="bogata" link="+" sent="+" />
+						<pair aspect="dostavljač" anchor="bogata" link="" sent="" />
+						<pair aspect="sve" anchor="bogata" link="" sent="" />
+						<pair aspect="sam" anchor="bogata" link="" sent="" />
+						<pair aspect="pizza" anchor="dobro" link="+" sent="+" />
+						<pair aspect="sastojcima" anchor="dobro" link="" sent="" />
+						<pair aspect="dostavljač" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="dobro" link="" sent="" />
+						<pair aspect="sam" anchor="dobro" link="" sent="" />
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="sastojcima" anchor="ukusna" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ukusna" link="" sent="" />
+						<pair aspect="sve" anchor="ukusna" link="" sent="" />
+						<pair aspect="sam" anchor="ukusna" link="" sent="" />
+						<pair aspect="pizza" anchor="ljubazan" link="" sent="" />
+						<pair aspect="sastojcima" anchor="ljubazan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+						<pair aspect="sve" anchor="ljubazan" link="" sent="" />
+						<pair aspect="sam" anchor="ljubazan" link="" sent="" />
+						<pair aspect="pizza" anchor="zadovoljan" link="" sent="" />
+						<pair aspect="sastojcima" anchor="zadovoljan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="zadovoljan" link="" sent="" />
+						<pair aspect="sve" anchor="zadovoljan" link="" sent="" />
+						<pair aspect="sam" anchor="zadovoljan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>brza dostava , jako ukusna chimichanga def pollo ( dosta špicu ) . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="pollo" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="pollo" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>vrlo dobra porcija .. </text>
+				<pairs>
+						<pair aspect="porcija" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>u svakom slučaju sve pohvale za ovo jelo </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+						<pair aspect="jelo" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>svaki put me iznenade kvalitetom jela te ponekim desetice . </text>
+				<pairs>
+						<pair aspect="kvalitetom" anchor="kvalitetom" link="" sent="" />
+						<pair aspect="jela" anchor="kvalitetom" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ovaj put na redu je bila domaća tjestenina i za mene totalnoj oduševljenje ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>mislim da ću uzeti talijansko državljanstvo ako je svaka od navedenih tjestenina ovakvo ukusna ... </text>
+				<pairs>
+						<pair aspect="tjestenina" anchor="ukusna" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>molim vas samo tako nastavite ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>mmmmmmmmmmm </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odličan meni broj &lt;num&gt; , malo salata slabija , ali palačinke , pomfrit i pileći file su bili super : ) vrijeme dostave : čak su uranili &lt;num&gt; minuta , lokacija trešnjevka . </text>
+				<pairs>
+						<pair aspect="salata" anchor="odličan" link="" sent="" />
+						<pair aspect="palačinke" anchor="odličan" link="" sent="" />
+						<pair aspect="pomfrit" anchor="odličan" link="" sent="" />
+						<pair aspect="file" anchor="odličan" link="" sent="" />
+						<pair aspect="dostave" anchor="odličan" link="" sent="" />
+						<pair aspect="salata" anchor="slabija" link="+" sent="-" />
+						<pair aspect="palačinke" anchor="slabija" link="" sent="" />
+						<pair aspect="pomfrit" anchor="slabija" link="" sent="" />
+						<pair aspect="file" anchor="slabija" link="" sent="" />
+						<pair aspect="dostave" anchor="slabija" link="" sent="" />
+						<pair aspect="salata" anchor="super" link="" sent="" />
+						<pair aspect="palačinke" anchor="super" link="+" sent="+" />
+						<pair aspect="pomfrit" anchor="super" link="+" sent="+" />
+						<pair aspect="file" anchor="super" link="+" sent="+" />
+						<pair aspect="dostave" anchor="super" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sljedeći put meksička pa javim dojmove : ) </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Vaš dostavljač je kasnio, nije mogao pronaći mjesto dostave (u firmi) iako je sve navedeno u detalje, od tvrtke, imena i prezimena, čak i privatnog broja mobitela (svi navedeni podaci su potpuni i točni kao što nas prijava na pauzu.hr i traži), a on je svejedno kritizirao da nije imao dovoljno podataka.mislim da to nije bio moj propust.</Text>
+  <Rating>1</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

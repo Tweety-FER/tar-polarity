@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>čekam pizzu , koja ne dolazi zadnjih &lt;num&gt; mina od isteka roka .. </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="čekam" link="+" sent="" />
+						<pair aspect="pizzu" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>da su me barem nazvali , , , </text>
+				<pairs />
+		</sentence>
+</comment>

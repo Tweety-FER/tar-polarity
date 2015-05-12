@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>usadila hongostortilje su obilne i tople , zamjerka što uopće nema zelene salate premda je navedeno da ju ima . </text>
+				<pairs>
+						<pair aspect="salate" anchor="obilne" link="" sent="" />
+						<pair aspect="salate" anchor="tople" link="" sent="" />
+						<pair aspect="salate" anchor="zamjerka" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostava je došla na vrijeme . </text>
+				<pairs />
+		</sentence>
+</comment>

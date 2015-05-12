@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>zvao me sada šef restorana i ispričao mi se s obrazloženjem da su mi poslali krive lazanje , ne bolognese koje sam ja prvotnoj naručio nego sa sirom , i rekao da će me častiti sljedeći put kad budem naručio . </text>
+				<pairs>
+						<pair aspect="restorana" anchor="krive" link="" sent="" />
+						<pair aspect="lazanje" anchor="krive" link="+" sent="-" />
+						<pair aspect="bolognese" anchor="krive" link="" sent="" />
+						<pair aspect="sam" anchor="krive" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast !!! </text>
+				<pairs />
+		</sentence>
+</comment>

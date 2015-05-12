@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza pikantne odlična . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>&lt;num&gt; % stiže na vrijeme , ako zakasne iznimno ljubazni dostavljač se uvijek ispriča . </text>
+				<pairs>
+						<pair aspect="stiže" anchor="iznimno" link="" sent="" />
+						<pair aspect="dostavljač" anchor="iznimno" link="" sent="" />
+						<pair aspect="stiže" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>vjerojatno meni najbolja pizzerija na pauzi . </text>
+				<pairs />
+		</sentence>
+</comment>

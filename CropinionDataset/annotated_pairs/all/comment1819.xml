@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio dnevni meni od 50kn koji je trebao uključivati : pileći file na žaru , pomes rite , salata , &lt;num&gt; palačinke platio sam punu cijenu , ali salatu nisam dobio . </text>
+				<pairs>
+						<pair aspect="file" anchor="punu" link="" sent="" />
+						<pair aspect="pomes" anchor="punu" link="" sent="" />
+						<pair aspect="salata" anchor="punu" link="" sent="" />
+						<pair aspect="palačinke" anchor="punu" link="" sent="" />
+						<pair aspect="sam" anchor="punu" link="" sent="" />
+						<pair aspect="cijenu" anchor="punu" link="+" sent="-" />
+						<pair aspect="salatu" anchor="punu" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

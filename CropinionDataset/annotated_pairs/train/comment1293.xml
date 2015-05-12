@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava u opisanom vremenskom roku . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pakiranje odlično . </text>
+				<pairs>
+						<pair aspect="pakiranje" anchor="odlično" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hrana ukusna , naručio philly ( nisam nikad prije jelo , ali bio je fin ) . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="jelo" anchor="ukusna" link="" sent="" />
+						<pair aspect="hrana" anchor="fin" link="" sent="" />
+						<pair aspect="jelo" anchor="fin" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naručit ću ponovo . </text>
+				<pairs />
+		</sentence>
+</comment>

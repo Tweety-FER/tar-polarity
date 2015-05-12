@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>super ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve fino , velike porcije , dostava na vrijeme ! </text>
+				<pairs>
+						<pair aspect="sve" anchor="fino" link="+" sent="+" />
+						<pair aspect="porcije" anchor="fino" link="" sent="" />
+						<pair aspect="dostava" anchor="fino" link="" sent="" />
+						<pair aspect="sve" anchor="velike" link="" sent="" />
+						<pair aspect="porcije" anchor="velike" link="+" sent="+" />
+						<pair aspect="dostava" anchor="velike" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pohvale dvojci ! </text>
+				<pairs />
+		</sentence>
+</comment>

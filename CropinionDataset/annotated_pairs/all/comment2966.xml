@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>slavonska pizza je odlična . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>međutim tražio sam s ajvar om i slatkim feferon ima , a to nisam dobio . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>moj savjet : svakako citate komentare </text>
+				<pairs />
+		</sentence>
+</comment>

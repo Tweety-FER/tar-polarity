@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>chimichanga def pollo jako ukusna ! </text>
+				<pairs>
+						<pair aspect="pollo" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>stiglo prije vremena ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>potpuno sam zadovoljna : ) </text>
+				<pairs>
+						<pair aspect="sam" anchor="zadovoljna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

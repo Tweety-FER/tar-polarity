@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>najblaže rečeno , razočaravajuće . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dakle , nakon sat i pol čekanja odlučili smo se kontaktirati dostavu , da bi nas oni obavijestili da su našu narudžbu previdjeli i ukoliko još uvijek želimo da nam mogu dostaviti naručene pizze . </text>
+				<pairs>
+						<pair aspect="dostavu" anchor="čekanja" link="+" sent="" />
+						<pair aspect="pizze" anchor="čekanja" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>naravno da ne želimo .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>nije im bio prvi put da kasne ali bi prešli preko toga zbog iskrene isprike , koja je ovog puta izostala . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>postojalo je više načina da iz ove situacije izađete svjetlija obraza , ali vama se očito nije daloj potruditi . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>izgubili ste jednog klijenta , a nadam se nakon ovog komentara još nekolicinu . </text>
+				<pairs>
+						<pair aspect="ste" anchor="izgubili" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

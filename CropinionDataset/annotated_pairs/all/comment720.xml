@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>zadovoljna sam hranom , jedino je dostava malo kasnila no dostavljač se ispričao ( što je inače vrlo rijetko čujem ) pa mu opraštam : ) bilo bi super kad biste snizili minimalnu narudžbu s &lt;num&gt; na bar 40kn , u suprotnom mi je teško kombinirati jela koja bi bila za 45kn i više . </text>
+				<pairs>
+						<pair aspect="sam" anchor="zadovoljna" link="+" sent="+" />
+						<pair aspect="hranom" anchor="zadovoljna" link="+" sent="+" />
+						<pair aspect="dostava" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="dostavljač" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="jela" anchor="zadovoljna" link="" sent="" />
+						<pair aspect="sam" anchor="kasnila" link="" sent="" />
+						<pair aspect="hranom" anchor="kasnila" link="" sent="" />
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="-" />
+						<pair aspect="dostavljač" anchor="kasnila" link="" sent="" />
+						<pair aspect="jela" anchor="kasnila" link="" sent="" />
+						<pair aspect="sam" anchor="rijetko" link="" sent="" />
+						<pair aspect="hranom" anchor="rijetko" link="" sent="" />
+						<pair aspect="dostava" anchor="rijetko" link="" sent="" />
+						<pair aspect="dostavljač" anchor="rijetko" link="" sent="" />
+						<pair aspect="jela" anchor="rijetko" link="" sent="" />
+						<pair aspect="sam" anchor="super" link="" sent="" />
+						<pair aspect="hranom" anchor="super" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="dostavljač" anchor="super" link="" sent="" />
+						<pair aspect="jela" anchor="super" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>stiglo brzo ali .. </text>
+				<pairs>
+						<pair aspect="stiglo" anchor="brzo" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bez kruha , bez cole i već na pola hladno ?? </text>
+				<pairs>
+						<pair aspect="kruha" anchor="hladno" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>baš i nije neka usluga za 60kn . </text>
+				<pairs />
+		</sentence>
+</comment>

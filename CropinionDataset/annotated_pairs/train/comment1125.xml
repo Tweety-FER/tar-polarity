@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručujemo već duže vrijeme iz ovoga restorana i moramo reći da smo izrazito zadovoljni . </text>
+				<pairs>
+						<pair aspect="restorana" anchor="zadovoljni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dnevni mednu je izvrsna opcija , obilato , fino i povoljno . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava je uvijek brza , a dostavljač simpatičan i efikasan . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="dostavljač" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="simpatičan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="simpatičan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>jedina zamjerka je što smo danas naručili pohane banane , koje smo i dobili , ali zaračunata nam je pohani sladoled . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ali ne ćemo im to jako zamjeriti jer ljudski je griješiti . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>hi hi </text>
+				<pairs />
+		</sentence>
+</comment>

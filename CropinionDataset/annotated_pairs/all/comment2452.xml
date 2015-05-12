@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava za 20min . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>palačinke savršene . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="savršene" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve pohvale . </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

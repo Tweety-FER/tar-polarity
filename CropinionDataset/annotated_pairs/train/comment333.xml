@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>čekam već sat i 40ak mina i nikako da dodaje taj gyros .. </text>
+				<pairs>
+						<pair aspect="gyros" anchor="čekam" link="+" sent="-" />
+						<pair aspect="gyros" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>prestrašio .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručivah sam i prije i hrana nije losa stvarno .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ali kajman .. </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ako možeš isporučite hranu u zadanom roku onda nemoj prodavati .. </text>
+				<pairs />
+		</sentence>
+</comment>

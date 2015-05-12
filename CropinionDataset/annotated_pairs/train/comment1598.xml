@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlična , domaća i kvalitetna jela , brza dostava . </text>
+				<pairs>
+						<pair aspect="jela" anchor="odlična" link="+" sent="+" />
+						<pair aspect="dostava" anchor="odlična" link="" sent="" />
+						<pair aspect="jela" anchor="kvalitetna" link="+" sent="+" />
+						<pair aspect="dostava" anchor="kvalitetna" link="" sent="" />
+						<pair aspect="jela" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>uvijek rado naručujem iz kuhače ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ostanite ovakvo dobri ! </text>
+				<pairs />
+		</sentence>
+</comment>

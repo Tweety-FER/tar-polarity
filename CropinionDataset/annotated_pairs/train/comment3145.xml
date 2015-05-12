@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili pizzu iglica koja je izvrsna došla prije nabavljenoj vremena unatoč snijegu , svaka čast dostavljaču samo nastavite tako ! </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="izvrsna" link="+" sent="+" />
+						<pair aspect="došla" anchor="izvrsna" link="" sent="" />
+						<pair aspect="dostavljaču" anchor="izvrsna" link="" sent="" />
+						<pair aspect="pizzu" anchor="čast" link="" sent="" />
+						<pair aspect="došla" anchor="čast" link="" sent="" />
+						<pair aspect="dostavljaču" anchor="čast" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

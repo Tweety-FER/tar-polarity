@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizze i nisu nešto posebno , malo sira i priloga općenito ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ali zato sve ostalo na razini : d estrada preporuka </text>
+				<pairs>
+						<pair aspect="sve" anchor="preporuka" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

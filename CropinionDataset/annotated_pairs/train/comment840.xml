@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlična hrana , topla , uvijek dođe na vrijeme : ) </text>
+				<pairs>
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+						<pair aspect="dođe" anchor="odlična" link="" sent="" />
+						<pair aspect="hrana" anchor="topla" link="+" sent="+" />
+						<pair aspect="dođe" anchor="topla" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

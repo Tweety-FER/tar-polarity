@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ne mogu vjerovati da je tako dobar cheseberger toliko jeftin ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>jest da je sir u tragovima , ali ipak sve pohvale . </text>
+				<pairs>
+						<pair aspect="jest" anchor="pohvale" link="" sent="" />
+						<pair aspect="sir" anchor="pohvale" link="" sent="" />
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostavu neću komentirati , sigurno će drugi puta biti jednostavnije : ) </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je kasnila kojih 15ak minuta , ali razumijevo s obzirom da su otvoreni za dostave tek par dana .. </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="+" />
+						<pair aspect="dostave" anchor="kasnila" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hrana vrhunska , porcije velike .. </text>
+				<pairs>
+						<pair aspect="hrana" anchor="vrhunska" link="+" sent="+" />
+						<pair aspect="porcije" anchor="vrhunska" link="" sent="" />
+						<pair aspect="hrana" anchor="velike" link="" sent="" />
+						<pair aspect="porcije" anchor="velike" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>vjerojatno najbolji restoran koji sam našao na pauzi ! </text>
+				<pairs>
+						<pair aspect="restoran" anchor="najbolji" link="+" sent="+" />
+						<pair aspect="sam" anchor="najbolji" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

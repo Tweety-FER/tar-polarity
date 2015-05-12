@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>sve što smo do sada naručili iz simpa plus materinja bilo je stvarno odlično svaki put . </text>
+				<pairs>
+						<pair aspect="sve" anchor="simpa" link="" sent="" />
+						<pair aspect="sve" anchor="plus" link="" sent="" />
+						<pair aspect="sve" anchor="odlično" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bilo da se radi o pilećim / prečim filetima punjenim sirom , raznim tjesteninama i rižo tima , lignjama , salatama ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>svaka čast ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>: ) / / ekipa iz brloga </text>
+				<pairs />
+		</sentence>
+</comment>

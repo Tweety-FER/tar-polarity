@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Prošlo je 2 sata. Molila bi vas da mi donesete jelo, jer zatvarate u 23 h , što bi značilo za 20  minuta. Ako niste u mogučnosti dostaviti trebate javit.</Text>
+  <Rating>0.5</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

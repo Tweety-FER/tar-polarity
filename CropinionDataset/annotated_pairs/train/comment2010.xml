@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ima li što gljiva asa ? </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>svaki put kad naručim bilo koju pizzu s gljivama dobijem doslovno samo gljive . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>na gljivama . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>jako jako puno gljiva . </text>
+				<pairs>
+						<!-- sent je plus, jer ne gledamo kontekst, a kako nema negacije ovo će sve skupa biti +. Ipak, radi se o minusu jer je u pitanju sarkazam/ironija -->	
+						<pair aspect="gljiva" anchor="puno" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>previše gljiva . </text>
+				<pairs>
+						<pair aspect="gljiva" anchor="previše" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>i vode iz konzerve s gljivama . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<!-- lol, spellchecker je pretvorio origano u rigano -->	
+				<text>i ovo definitivno nije rigano . </text>
+				<pairs />
+		</sentence>
+</comment>

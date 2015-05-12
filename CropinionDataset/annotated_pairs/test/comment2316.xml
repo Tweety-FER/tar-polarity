@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>hrana je naručena u &lt;num&gt; : &lt;num&gt; h , a okvirnoj vrijeme dostave bilo je &lt;num&gt; minuta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u &lt;num&gt; : &lt;num&gt; h hrane još uvijek nema . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>na telefone za kontakt se nitko ne javlja . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>vrlo neprofesionalnoj . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ocjena &lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Ako već postoji opcija pisanja dodatnih napomena, zašto ih ne čitate? Niti je dostavljač znao za koga je pizza, niti je imao moj broj; a najgore od svega dobio sam pizzu sa sirom iako sam izričito napisao da ne želim sir.</Text>
+  <Rating>0.5</Rating>
+  <Source>http://pauza.hr/menu/strossmayer</Source>
+</CrawlItem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>punjena pljeskavica i sisa stigli za &lt;num&gt; minuta , dobra količina i kvaliteta mesa . </text>
+				<pairs>
+						<pair aspect="pljeskavica" anchor="dobra" link="" sent="" />
+						<pair aspect="stigli" anchor="dobra" link="" sent="" />
+						<pair aspect="količina" anchor="dobra" link="+" sent="" />
+						<pair aspect="kvaliteta" anchor="dobra" link="+" sent="" />
+						<pair aspect="mesa" anchor="dobra" link="" sent="" />
+						<pair aspect="pljeskavica" anchor="kvaliteta" link="" sent="" />
+						<pair aspect="stigli" anchor="kvaliteta" link="" sent="" />
+						<pair aspect="količina" anchor="kvaliteta" link="" sent="" />
+						<pair aspect="kvaliteta" anchor="kvaliteta" link="" sent="" />
+						<pair aspect="mesa" anchor="kvaliteta" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>super što postoji opcija da se roštilj naruči bez priloga samo s lepinjom , ne zbog love , nego što pomfri i lepinja budu previše pa dio uvijek završi u smeću . </text>
+				<pairs>
+						<pair aspect="roštilj" anchor="super" link="" sent="" />
+						<pair aspect="lepinjom" anchor="super" link="" sent="" />
+						<pair aspect="pomfri" anchor="super" link="" sent="" />
+						<pair aspect="lepinja" anchor="super" link="" sent="" />
+						<pair aspect="roštilj" anchor="previše" link="" sent="" />
+						<pair aspect="lepinjom" anchor="previše" link="" sent="" />
+						<pair aspect="pomfri" anchor="previše" link="+" sent="" />
+						<pair aspect="lepinja" anchor="previše" link="+" sent="" />
+						<pair aspect="roštilj" anchor="smeću" link="" sent="" />
+						<pair aspect="lepinjom" anchor="smeću" link="" sent="" />
+						<pair aspect="pomfri" anchor="smeću" link="" sent="" />
+						<pair aspect="lepinja" anchor="smeću" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>this is the second day that I've ordered, the food is good and the service is quick and courteous</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/kina-express</Source>
+</CrawlItem>

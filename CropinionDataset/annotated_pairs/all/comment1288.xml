@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>što se tiče klope tu se nema sat govoriti ( savršeno ) usluga je na visokom nivou , dostavljač kulturan i pristojan : ) hvala na besplatnim sitnicama : ) ( male stvari cine čovjeka sretnim ) toplo i prije vremena : ) samo tako nastavite i ostajete moj favorit na auti : ) kao nije probo klopu iz ove kuhinje ja mu kažem da ne zna što propušta : ) sve preporuke : ) ljudi probajte : ) samo jest jest : ) ) ) </text>
+				<pairs>
+						<pair aspect="klope" anchor="savršeno" link="+" sent="+" />
+						<pair aspect="usluga" anchor="savršeno" link="" sent="" />
+						<pair aspect="dostavljač" anchor="savršeno" link="" sent="" />
+						<pair aspect="klopu" anchor="savršeno" link="" sent="" />
+						<pair aspect="kuhinje" anchor="savršeno" link="" sent="" />
+						<pair aspect="sve" anchor="savršeno" link="" sent="" />
+						<pair aspect="jest" anchor="savršeno" link="" sent="" />
+						<pair aspect="jest" anchor="savršeno" link="" sent="" />
+						<pair aspect="klope" anchor="pristojan" link="" sent="" />
+						<pair aspect="usluga" anchor="pristojan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="pristojan" link="+" sent="+" />
+						<pair aspect="klopu" anchor="pristojan" link="" sent="" />
+						<pair aspect="kuhinje" anchor="pristojan" link="" sent="" />
+						<pair aspect="sve" anchor="pristojan" link="" sent="" />
+						<pair aspect="jest" anchor="pristojan" link="" sent="" />
+						<pair aspect="jest" anchor="pristojan" link="" sent="" />
+						<pair aspect="klope" anchor="hvala" link="" sent="" />
+						<pair aspect="usluga" anchor="hvala" link="" sent="" />
+						<pair aspect="dostavljač" anchor="hvala" link="" sent="" />
+						<pair aspect="klopu" anchor="hvala" link="" sent="" />
+						<pair aspect="kuhinje" anchor="hvala" link="" sent="" />
+						<pair aspect="sve" anchor="hvala" link="" sent="" />
+						<pair aspect="jest" anchor="hvala" link="" sent="" />
+						<pair aspect="jest" anchor="hvala" link="" sent="" />
+						<pair aspect="klope" anchor="besplatnim" link="" sent="" />
+						<pair aspect="usluga" anchor="besplatnim" link="" sent="" />
+						<pair aspect="dostavljač" anchor="besplatnim" link="" sent="" />
+						<pair aspect="klopu" anchor="besplatnim" link="" sent="" />
+						<pair aspect="kuhinje" anchor="besplatnim" link="" sent="" />
+						<pair aspect="sve" anchor="besplatnim" link="" sent="" />
+						<pair aspect="jest" anchor="besplatnim" link="" sent="" />
+						<pair aspect="jest" anchor="besplatnim" link="" sent="" />
+						<pair aspect="klope" anchor="toplo" link="" sent="" />
+						<pair aspect="usluga" anchor="toplo" link="" sent="" />
+						<pair aspect="dostavljač" anchor="toplo" link="" sent="" />
+						<pair aspect="klopu" anchor="toplo" link="" sent="" />
+						<pair aspect="kuhinje" anchor="toplo" link="" sent="" />
+						<pair aspect="sve" anchor="toplo" link="" sent="" />
+						<pair aspect="jest" anchor="toplo" link="" sent="" />
+						<pair aspect="jest" anchor="toplo" link="" sent="" />
+						<pair aspect="klope" anchor="preporuke" link="" sent="" />
+						<pair aspect="usluga" anchor="preporuke" link="" sent="" />
+						<pair aspect="dostavljač" anchor="preporuke" link="" sent="" />
+						<pair aspect="klopu" anchor="preporuke" link="" sent="" />
+						<pair aspect="kuhinje" anchor="preporuke" link="" sent="" />
+						<pair aspect="sve" anchor="preporuke" link="+" sent="+" />
+						<pair aspect="jest" anchor="preporuke" link="" sent="" />
+						<pair aspect="jest" anchor="preporuke" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

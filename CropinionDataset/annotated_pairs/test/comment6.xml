@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručila sam platu za jednu osobu . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>kao i uvijek dostava je brza , a plata je bila izvrsna . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="" />
+						<pair aspect="plata" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="izvrsna" link="" sent="" />
+						<pair aspect="plata" anchor="izvrsna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>kotlet vrlo ukusan , fino pečen . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve odlično začinjenoj , s mirisom domaćeg roštilja , porcija obilna . </text>
+				<pairs>
+						<pair aspect="sve" anchor="odlično" link="+" sent="" />
+						<pair aspect="roštilja" anchor="odlično" link="" sent="" />
+						<pair aspect="porcija" anchor="odlično" link="" sent="" />
+						<pair aspect="sve" anchor="obilna" link="" sent="" />
+						<pair aspect="roštilja" anchor="obilna" link="" sent="" />
+						<pair aspect="porcija" anchor="obilna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve preporuke !!! </text>
+				<pairs>
+						<pair aspect="sve" anchor="preporuke" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>prošlu godinu sam često naručivala piletinu sa žara i sad me zanima - jesu li promijenili kuhara ? </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>piletina je suha , prepečena i ne začinjena , ni sjena onome što sam inače znala jesti u tornada </text>
+				<pairs>
+						<pair aspect="piletina" anchor="suha" link="+" sent="-" />
+						<pair aspect="sam" anchor="suha" link="" sent="" />
+						<pair aspect="jesti" anchor="suha" link="" sent="" />
+						<pair aspect="piletina" anchor="prepečena" link="+" sent="-" />
+						<pair aspect="sam" anchor="prepečena" link="" sent="" />
+						<pair aspect="jesti" anchor="prepečena" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>sve je došlo na vrijeme , toplo , ali zamjerka je što ima puuuunooo previše luka , te je prevladao okus .. </text>
+				<pairs>
+						<pair aspect="sve" anchor="toplo" link="+" sent="+" />
+						<pair aspect="došlo" anchor="toplo" link="+" sent="+" />
+						<pair aspect="luka" anchor="toplo" link="" sent="" />
+						<pair aspect="okus" anchor="toplo" link="" sent="" />
+						<pair aspect="sve" anchor="zamjerka" link="" sent="" />
+						<pair aspect="došlo" anchor="zamjerka" link="" sent="" />
+						<pair aspect="luka" anchor="zamjerka" link="+" sent="-" />
+						<pair aspect="okus" anchor="zamjerka" link="" sent="" />
+						<pair aspect="sve" anchor="previše" link="" sent="" />
+						<pair aspect="došlo" anchor="previše" link="" sent="" />
+						<pair aspect="luka" anchor="previše" link="+" sent="-" />
+						<pair aspect="okus" anchor="previše" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

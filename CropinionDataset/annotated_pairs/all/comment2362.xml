@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>urnebesno brzo i loše . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručio grah ( bez kobasice ) i &amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>urnebes zagrebački &amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>s rižom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dobio pomfrit uz urnebes i grah s kobasicom uronjenom u grah ( koja je sirova i naprosto * * * , kad je već ima ) grah je kiseo i među top &lt;num&gt; najgorih u mojem životu . </text>
+				<pairs>
+						<pair aspect="pomfrit" anchor="sirova" link="" sent="" />
+						<pair aspect="grah" anchor="sirova" link="" sent="" />
+						<pair aspect="kobasicom" anchor="sirova" link="+" sent="" />
+						<pair aspect="grah" anchor="sirova" link="" sent="" />
+						<pair aspect="grah" anchor="sirova" link="" sent="" />
+						<pair aspect="pomfrit" anchor="kiseo" link="" sent="" />
+						<pair aspect="grah" anchor="kiseo" link="+" sent="" />
+						<pair aspect="kobasicom" anchor="kiseo" link="" sent="" />
+						<pair aspect="grah" anchor="kiseo" link="" sent="" />
+						<pair aspect="grah" anchor="kiseo" link="" sent="" />
+						<pair aspect="pomfrit" anchor="najgorih" link="" sent="" />
+						<pair aspect="grah" anchor="najgorih" link="" sent="" />
+						<pair aspect="kobasicom" anchor="najgorih" link="" sent="" />
+						<pair aspect="grah" anchor="najgorih" link="" sent="" />
+						<pair aspect="grah" anchor="najgorih" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>lepinje su sirove . </text>
+				<pairs>
+						<pair aspect="lepinje" anchor="sirove" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zagrebački je prolazan i to je to . </text>
+				<pairs />
+		</sentence>
+</comment>

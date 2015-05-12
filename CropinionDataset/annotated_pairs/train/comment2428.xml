@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>inače super , ali danas su meč palačinke bile kao da se nekome omaklo , pa istresao cijeli papar u njih . </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="super" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>jako jako ljuto , ali ne onako fino ljuto . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava stigla brže od nabavljenoj , a i palačinke su inače super , pa eto ipak &lt;num&gt; zvjezdica . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brže" link="+" sent="+" />
+						<pair aspect="stigla" anchor="brže" link="+" sent="+" />
+						<pair aspect="palačinke" anchor="brže" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="stigla" anchor="super" link="" sent="" />
+						<pair aspect="palačinke" anchor="super" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ali smirite kuhara malo : ) </text>
+				<pairs />
+		</sentence>
+</comment>

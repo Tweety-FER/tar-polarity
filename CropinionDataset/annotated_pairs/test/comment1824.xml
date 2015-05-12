@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>najbolja Mesnička pizza koju smo do sada probali . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="najbolja" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>neukusno . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pizze &lt;num&gt; , Mesnička hrana razočaravajuća </text>
+				<pairs />
+		</sentence>
+</comment>

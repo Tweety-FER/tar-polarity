@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>budući da smo danas &lt;num&gt; . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>put probali kinesku kuhinju nije nam se pretjerano sviđalo .... </text>
+				<pairs>
+						<pair aspect="kuhinju" anchor="sviđalo" link="-" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>gips od jastoga odličan </text>
+				<pairs />
+		</sentence>
+</comment>

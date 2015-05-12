@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>svaka čast cjelokupnom osoblju restorana , naručio sam pljeskavicu i blitvu s krumpirom oko &lt;num&gt; sati , nažalost zagubila se narudžba zbog izmjene smjena . </text>
+				<pairs>
+						<pair aspect="osoblju" anchor="čast" link="+" sent="" />
+						<pair aspect="restorana" anchor="čast" link="+" sent="" />
+						<pair aspect="sam" anchor="čast" link="" sent="" />
+						<pair aspect="pljeskavicu" anchor="čast" link="" sent="" />
+						<pair aspect="blitvu" anchor="čast" link="" sent="" />
+						<pair aspect="krumpirom" anchor="čast" link="" sent="" />
+						<pair aspect="osoblju" anchor="nažalost" link="" sent="" />
+						<pair aspect="restorana" anchor="nažalost" link="" sent="" />
+						<pair aspect="sam" anchor="nažalost" link="" sent="" />
+						<pair aspect="pljeskavicu" anchor="nažalost" link="" sent="" />
+						<pair aspect="blitvu" anchor="nažalost" link="" sent="" />
+						<pair aspect="krumpirom" anchor="nažalost" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hrana je naposljetku došla oko &lt;num&gt; sati , ljubazni dostavljač mi se ispričao u ime cijelog osoblja i dobio uzeti novac za naručenu hranu . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="ljubazni" link="" sent="" />
+						<pair aspect="došla" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazni" link="+" sent="" />
+						<pair aspect="osoblja" anchor="ljubazni" link="" sent="" />
+						<pair aspect="hranu" anchor="ljubazni" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pljeskavica i blitva je bila fenomenalna , a dodatno ju je začinila ova lijepa gesta </text>
+				<pairs>
+						<pair aspect="pljeskavica" anchor="fenomenalna" link="+" sent="" />
+						<pair aspect="blitva" anchor="fenomenalna" link="+" sent="" />
+						<pair aspect="pljeskavica" anchor="lijepa" link="" sent="" />
+						<pair aspect="blitva" anchor="lijepa" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>piletina u umaku sa &lt;num&gt; vrste sira je odlična ( fali malo gorgonzole ) , i bilo bi možda bolje da umjesto pomfrita stavite njoka ili krokete . </text>
+				<pairs>
+						<pair aspect="piletina" anchor="odlična" link="+" sent="+" />
+						<pair aspect="umaku" anchor="odlična" link="" sent="" />
+						<pair aspect="sira" anchor="odlična" link="+" sent="+" />
+						<pair aspect="pomfrita" anchor="odlična" link="" sent="" />
+						<pair aspect="njoka" anchor="odlična" link="" sent="" />
+						<pair aspect="krokete" anchor="odlična" link="" sent="" />
+						<pair aspect="piletina" anchor="fali" link="" sent="" />
+						<pair aspect="umaku" anchor="fali" link="" sent="" />
+						<pair aspect="sira" anchor="fali" link="" sent="" />
+						<pair aspect="pomfrita" anchor="fali" link="" sent="" />
+						<pair aspect="njoka" anchor="fali" link="" sent="" />
+						<pair aspect="krokete" anchor="fali" link="" sent="" />
+						<pair aspect="piletina" anchor="bolje" link="" sent="" />
+						<pair aspect="umaku" anchor="bolje" link="" sent="" />
+						<pair aspect="sira" anchor="bolje" link="" sent="" />
+						<pair aspect="pomfrita" anchor="bolje" link="" sent="" />
+						<pair aspect="njoka" anchor="bolje" link="" sent="" />
+						<pair aspect="krokete" anchor="bolje" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

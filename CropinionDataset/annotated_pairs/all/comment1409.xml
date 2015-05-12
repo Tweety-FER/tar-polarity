@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>Katastrofa1 . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>liku je trebalo sat i pol da dostavi &lt;num&gt; sendviča ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>wtf2 . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručio sam bez ikakvih priloga stavio mi je sve3 . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sendviči su imali doslovno tri site mesa - sto je za onaj sa šunkom bilo ok ali onaj s klenom puuuuuuno premalo - brijem da zato i jesu stavili sve priloge da se ne bi vilo koliko malo mesa stave sve u svemu nikad više </text>
+				<pairs>
+						<pair aspect="sendviči" anchor="ok" link="" sent="" />
+						<pair aspect="mesa" anchor="ok" link="" sent="" />
+						<pair aspect="sve" anchor="ok" link="" sent="" />
+						<pair aspect="mesa" anchor="ok" link="" sent="" />
+						<pair aspect="sve" anchor="ok" link="" sent="" />
+						<pair aspect="sendviči" anchor="premalo" link="" sent="" />
+						<pair aspect="mesa" anchor="premalo" link="" sent="" />
+						<pair aspect="sve" anchor="premalo" link="" sent="" />
+						<pair aspect="mesa" anchor="premalo" link="" sent="" />
+						<pair aspect="sve" anchor="premalo" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>izvrsna komunikacija i odlična hrana ! </text>
+				<pairs>
+						<pair aspect="hrana" anchor="izvrsna" link="" sent="" />
+						<pair aspect="hrana" anchor="odlična" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>samo tako nastavite ! </text>
+				<pairs />
+		</sentence>
+</comment>

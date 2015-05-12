@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odrezak duo , * * * lose . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>tjestenina bezdušna , odresci žilavi i ispod prosječnog okusa . </text>
+				<pairs>
+						<pair aspect="tjestenina" anchor="žilavi" link="" sent="" />
+						<pair aspect="odresci" anchor="žilavi" link="+" sent="" />
+						<pair aspect="okusa" anchor="žilavi" link="" sent="" />
+						<pair aspect="tjestenina" anchor="prosječnog" link="" sent="" />
+						<pair aspect="odresci" anchor="prosječnog" link="+" sent="" />
+						<pair aspect="okusa" anchor="prosječnog" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>zali boze para .......... </text>
+				<pairs />
+		</sentence>
+</comment>

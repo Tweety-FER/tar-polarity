@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>danas sam jela bas dobre lagane , totalnoj fine , preporuke ! </text>
+				<pairs>
+						<pair aspect="sam" anchor="dobre" link="" sent="" />
+						<pair aspect="jela" anchor="dobre" link="+" sent="" />
+						<pair aspect="sam" anchor="fine" link="" sent="" />
+						<pair aspect="jela" anchor="fine" link="+" sent="" />
+						<pair aspect="sam" anchor="preporuke" link="" sent="" />
+						<pair aspect="jela" anchor="preporuke" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>čekala preko sat vremena , zvala par puta , isprike nisam dobila , dobila sam hladne palačinke i to razliveni umak od jagoda s palačinke s buteljom po palačinki s tunom i sirom , ne trebam vise nista reci .. </text>
+				<pairs>
+						<pair aspect="sam" anchor="čekala" link="" sent="" />
+						<pair aspect="palačinke" anchor="čekala" link="" sent="" />
+						<pair aspect="umak" anchor="čekala" link="" sent="" />
+						<pair aspect="palačinke" anchor="čekala" link="" sent="" />
+						<pair aspect="palačinki" anchor="čekala" link="" sent="" />
+						<pair aspect="tunom" anchor="čekala" link="" sent="" />
+						<pair aspect="sam" anchor="isprike" link="" sent="" />
+						<pair aspect="palačinke" anchor="isprike" link="" sent="" />
+						<pair aspect="umak" anchor="isprike" link="" sent="" />
+						<pair aspect="palačinke" anchor="isprike" link="" sent="" />
+						<pair aspect="palačinki" anchor="isprike" link="" sent="" />
+						<pair aspect="tunom" anchor="isprike" link="" sent="" />
+						<pair aspect="sam" anchor="hladne" link="" sent="" />
+						<pair aspect="palačinke" anchor="hladne" link="+" sent="-" />
+						<pair aspect="umak" anchor="hladne" link="" sent="" />
+						<pair aspect="palačinke" anchor="hladne" link="" sent="" />
+						<pair aspect="palačinki" anchor="hladne" link="" sent="" />
+						<pair aspect="tunom" anchor="hladne" link="" sent="" />
+						<pair aspect="sam" anchor="vise" link="" sent="" />
+						<pair aspect="palačinke" anchor="vise" link="" sent="" />
+						<pair aspect="umak" anchor="vise" link="" sent="" />
+						<pair aspect="palačinke" anchor="vise" link="" sent="" />
+						<pair aspect="palačinki" anchor="vise" link="" sent="" />
+						<pair aspect="tunom" anchor="vise" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

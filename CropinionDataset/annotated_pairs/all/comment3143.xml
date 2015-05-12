@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili smo pizzu zagabria i pileće ražnjiće prvi put i hrana je stvarno super nemojte se pokvariti </text>
+				<pairs>
+						<pair aspect="pizzu" anchor="super" link="" sent="" />
+						<pair aspect="ražnjiće" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="super" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

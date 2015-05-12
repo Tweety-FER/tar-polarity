@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Sve pizze koje smo jeli su odlične! Tople i ne štedi se na sastojcima. Sve u svemu odlično..</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/stross</Source>
+</CrawlItem>

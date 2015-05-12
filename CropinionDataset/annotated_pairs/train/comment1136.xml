@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>zadnjih mjesec dana jedemo često klopu kod vas , i potvrđujemo da ste prilično brzi . </text>
+				<pairs>
+						<pair aspect="jedemo" anchor="brzi" link="" sent="" />
+						<pair aspect="klopu" anchor="brzi" link="" sent="" />
+						<pair aspect="ste" anchor="brzi" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>a da ste ukusni , govori i da smo probali sve na dnevnom meniju i nemamo zamjerki . </text>
+				<pairs>
+						<pair aspect="ste" anchor="ukusni" link="+" sent="+" />
+						<pair aspect="sve" anchor="ukusni" link="" sent="" />
+						<pair aspect="ste" anchor="zamjerki" link="" sent="" />
+						<pair aspect="sve" anchor="zamjerki" link="-" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>slobodno napravite i nova jela u dnevnom meniju . </text>
+				<pairs />
+		</sentence>
+</comment>

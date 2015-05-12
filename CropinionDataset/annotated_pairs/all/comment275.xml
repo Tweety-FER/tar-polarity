@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>prestrašio . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>rijeci su suvišne . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>lagane su kupljene smrznute i onda prepečene i zalijepljene za kalup od alfu folije . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i još uz to su bile zgnječene tako da je dio lazanja iscurio van . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>palačinke - gratis ... </text>
+				<pairs>
+						<pair aspect="palačinke" anchor="gratis" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>super su , ali inače nisam bas veliki obožavatelj zagrobnih palačinki s marmeladom od paljevine . </text>
+				<pairs>
+						<pair aspect="palačinki" anchor="super" link="+" sent="+" />
+						<pair aspect="palačinki" anchor="veliki" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

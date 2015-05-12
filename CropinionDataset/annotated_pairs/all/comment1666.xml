@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jela su stigla pola sata ranije , vruće i fino ! </text>
+				<pairs>
+						<pair aspect="jela" anchor="ranije" link="" sent="" />
+						<pair aspect="stigla" anchor="ranije" link="+" sent="" />
+						<pair aspect="jela" anchor="vruće" link="+" sent="" />
+						<pair aspect="stigla" anchor="vruće" link="" sent="" />
+						<pair aspect="jela" anchor="fino" link="+" sent="" />
+						<pair aspect="stigla" anchor="fino" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ljubazni dostavljač - svaka čast , samo nastavite tako ! </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="ljubazni" link="+" sent="" />
+						<pair aspect="dostavljač" anchor="čast" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

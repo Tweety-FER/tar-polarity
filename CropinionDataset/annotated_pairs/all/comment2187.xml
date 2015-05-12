@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jako sam razočaran gege &lt;num&gt; pizzom . </text>
+				<pairs>
+						<pair aspect="sam" anchor="razočaran" link="+" sent="-" />
+						<pair aspect="pizzom" anchor="razočaran" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>gledao sam komentare ostalih korisnika i većina ih je bila oduševljena tom pizzom , no meni je bila jako losa . </text>
+				<pairs>
+						<pair aspect="sam" anchor="oduševljena" link="" sent="" />
+						<pair aspect="pizzom" anchor="oduševljena" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>tijesto nedovoljno pečeno ( gotovo sirovo ) , neslano i bez ukusno . </text>
+				<pairs>
+						<pair aspect="tijesto" anchor="nedovoljno" link="+" sent="-" />
+						<pair aspect="tijesto" anchor="sirovo" link="+" sent="-" />
+						<pair aspect="tijesto" anchor="neslano" link="+" sent="-" />
+						<pair aspect="tijesto" anchor="ukusno" link="-" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>također cijela pizza je bila neslana i nekako je imala bezličan okus . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="neslana" link="+" sent="-" />
+						<pair aspect="okus" anchor="neslana" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>rajčice je bilo definitivno premalo , svega par ultratankih fetva na cijeloj pizzi ( s obzirom da ova pizza nema nikakav umak od rajčice ovih par fetiša je stvarno nedovoljno ) . </text>
+				<pairs>
+						<pair aspect="rajčice" anchor="premalo" link="+" sent="-" />
+						<pair aspect="pizzi" anchor="premalo" link="" sent="" />
+						<pair aspect="pizza" anchor="premalo" link="" sent="" />
+						<pair aspect="umak" anchor="premalo" link="" sent="" />
+						<pair aspect="rajčice" anchor="premalo" link="" sent="" />
+						<pair aspect="rajčice" anchor="nikakav" link="" sent="" />
+						<pair aspect="pizzi" anchor="nikakav" link="" sent="" />
+						<pair aspect="pizza" anchor="nikakav" link="" sent="" />
+						<pair aspect="umak" anchor="nikakav" link="+" sent="-" />
+						<pair aspect="rajčice" anchor="nikakav" link="" sent="" />
+						<pair aspect="rajčice" anchor="nedovoljno" link="" sent="" />
+						<pair aspect="pizzi" anchor="nedovoljno" link="" sent="" />
+						<pair aspect="pizza" anchor="nedovoljno" link="" sent="" />
+						<pair aspect="umak" anchor="nedovoljno" link="" sent="" />
+						<pair aspect="rajčice" anchor="nedovoljno" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>plus je sto je pizza došla na vrijeme i bila je vruća . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="plus" link="+" sent="+" />
+						<pair aspect="došla" anchor="plus" link="" sent="" />
+						<pair aspect="pizza" anchor="vruća" link="+" sent="+" />
+						<pair aspect="došla" anchor="vruća" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve u svemu očekivalo sam puno vise , ocjena nategnuta dvojka </text>
+				<pairs>
+						<pair aspect="sve" anchor="puno" link="" sent="" />
+						<pair aspect="sam" anchor="puno" link="" sent="" />
+						<pair aspect="sve" anchor="vise" link="" sent="" />
+						<pair aspect="sam" anchor="vise" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

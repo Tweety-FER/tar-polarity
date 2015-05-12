@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>kuna pao piletina i proljetne police , sve super , ogromna porcija , fina hrana : ) samo se nemojte pokvariti : d </text>
+				<pairs>
+						<pair aspect="piletina" anchor="super" link="" sent="" />
+						<pair aspect="sve" anchor="super" link="+" sent="+" />
+						<pair aspect="porcija" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="super" link="" sent="" />
+						<pair aspect="piletina" anchor="ogromna" link="" sent="" />
+						<pair aspect="sve" anchor="ogromna" link="" sent="" />
+						<pair aspect="porcija" anchor="ogromna" link="+" sent="+" />
+						<pair aspect="hrana" anchor="ogromna" link="" sent="" />
+						<pair aspect="piletina" anchor="fina" link="" sent="" />
+						<pair aspect="sve" anchor="fina" link="" sent="" />
+						<pair aspect="porcija" anchor="fina" link="" sent="" />
+						<pair aspect="hrana" anchor="fina" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

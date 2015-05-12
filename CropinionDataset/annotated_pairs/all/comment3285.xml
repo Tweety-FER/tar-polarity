@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>stvarno dobar kebaj , malo hladan , no na to sam bio spreman jer sam prilično daleko od vlaške a i vremenske prilike nisu bile na strani vrlo ljubaznog dostavljača . </text>
+				<pairs>
+						<pair aspect="sam" anchor="dobar" link="" sent="" />
+						<pair aspect="sam" anchor="dobar" link="" sent="" />
+						<pair aspect="dostavljača" anchor="dobar" link="" sent="" />
+						<pair aspect="sam" anchor="hladan" link="" sent="" />
+						<pair aspect="sam" anchor="hladan" link="" sent="" />
+						<pair aspect="dostavljača" anchor="hladan" link="" sent="" />
+						<pair aspect="sam" anchor="ljubaznog" link="" sent="" />
+						<pair aspect="sam" anchor="ljubaznog" link="" sent="" />
+						<pair aspect="dostavljača" anchor="ljubaznog" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>no , dostava skoro u minutu . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>umak ljut onako kako treba , povrće svježe . </text>
+				<pairs>
+						<pair aspect="umak" anchor="svježe" link="" sent="" />
+						<pair aspect="povrće" anchor="svježe" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

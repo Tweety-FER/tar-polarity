@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlično ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ovo je vjerojatno najbolja hrana što sam ikad uzela s pauze . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="najbolja" link="+" sent="+" />
+						<pair aspect="sam" anchor="najbolja" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>hr odnosno dobila dostavom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i dostavljačima je došla na vrijeme : ) </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava kasnila &lt;num&gt; minuta , hrana ispod prosječna </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="" />
+						<pair aspect="hrana" anchor="kasnila" link="" sent="" />
+						<pair aspect="dostava" anchor="prosječna" link="" sent="" />
+						<pair aspect="hrana" anchor="prosječna" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

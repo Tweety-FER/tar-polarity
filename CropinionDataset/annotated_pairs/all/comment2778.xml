@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jedni od najukusniji ćevapa . </text>
+				<pairs>
+						<pair aspect="ćevapa" anchor="najukusniji" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dosta na vrijeme , ljubazno osoblje . </text>
+				<pairs>
+						<pair aspect="osoblje" anchor="ljubazno" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

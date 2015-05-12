@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>meksička pizza - rekli &lt;num&gt; mina , došlo za &lt;num&gt; , mnogo dobro : ) ali , naišli na koju hrskavicu , a to nije bilo baš dobro : ( sve u svemu , fina , vruća , bogata pizza , malo manja od očekivane , ali je i cijena daleko manja nego kod ostalih pa vam je opoštenio . </text>
+				<pairs>
+						<pair aspect="meksička" anchor="mina" link="" sent="" />
+						<pair aspect="pizza" anchor="mina" link="" sent="" />
+						<pair aspect="došlo" anchor="mina" link="" sent="" />
+						<pair aspect="sve" anchor="mina" link="" sent="" />
+						<pair aspect="pizza" anchor="mina" link="" sent="" />
+						<pair aspect="cijena" anchor="mina" link="" sent="" />
+						<pair aspect="meksička" anchor="dobro" link="" sent="" />
+						<pair aspect="pizza" anchor="dobro" link="" sent="" />
+						<pair aspect="došlo" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="dobro" link="" sent="" />
+						<pair aspect="pizza" anchor="dobro" link="" sent="" />
+						<pair aspect="cijena" anchor="dobro" link="" sent="" />
+						<pair aspect="meksička" anchor="dobro" link="" sent="" />
+						<pair aspect="pizza" anchor="dobro" link="" sent="" />
+						<pair aspect="došlo" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="dobro" link="" sent="" />
+						<pair aspect="pizza" anchor="dobro" link="" sent="" />
+						<pair aspect="cijena" anchor="dobro" link="" sent="" />
+						<pair aspect="meksička" anchor="fina" link="" sent="" />
+						<pair aspect="pizza" anchor="fina" link="+" sent="+" />
+						<pair aspect="došlo" anchor="fina" link="" sent="" />
+						<pair aspect="sve" anchor="fina" link="" sent="" />
+						<pair aspect="pizza" anchor="fina" link="" sent="" />
+						<pair aspect="cijena" anchor="fina" link="" sent="" />
+						<pair aspect="meksička" anchor="vruća" link="" sent="" />
+						<pair aspect="pizza" anchor="vruća" link="" sent="" />
+						<pair aspect="došlo" anchor="vruća" link="" sent="" />
+						<pair aspect="sve" anchor="vruća" link="" sent="" />
+						<pair aspect="pizza" anchor="vruća" link="+" sent="+" />
+						<pair aspect="cijena" anchor="vruća" link="" sent="" />
+						<pair aspect="meksička" anchor="bogata" link="" sent="" />
+						<pair aspect="pizza" anchor="bogata" link="+" sent="+" />
+						<pair aspect="došlo" anchor="bogata" link="" sent="" />
+						<pair aspect="sve" anchor="bogata" link="" sent="" />
+						<pair aspect="pizza" anchor="bogata" link="" sent="" />
+						<pair aspect="cijena" anchor="bogata" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

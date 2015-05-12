@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>medena kocka - savršena . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ostalo isto super . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>: ) jedino kaj dostava kasni po pol sata . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kaj" link="" sent="" />
+						<pair aspect="dostava" anchor="kasni" link="+" sent="-" />
+				</pairs>
+		</sentence>
+</comment>

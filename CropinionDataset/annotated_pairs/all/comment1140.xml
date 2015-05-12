@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>hrana super , dostava super , ma visite za &lt;num&gt; </text>
+				<pairs>
+						<pair aspect="hrana" anchor="super" link="+" sent="" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="super" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="+" sent="" />
+						<pair aspect="hrana" anchor="visite" link="" sent="" />
+						<pair aspect="dostava" anchor="visite" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

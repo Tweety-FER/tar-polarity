@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>brza dostava , cijene doduše malo skuplje , pa zato nr palačinke nisam probao .. </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="cijene" anchor="brza" link="" sent="" />
+						<pair aspect="palačinke" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="cijene" link="" sent="" />
+						<pair aspect="cijene" anchor="cijene" link="" sent="" />
+						<pair aspect="palačinke" anchor="cijene" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>skuuupoo ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>inače pizza dobra , ukusna .. </text>
+				<pairs>
+						<pair aspect="pizza" anchor="dobra" link="+" sent="+" />
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

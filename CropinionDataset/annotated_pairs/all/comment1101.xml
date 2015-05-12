@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili smo piletinu sa slatko kiselim umakom . </text>
+				<pairs>
+						<pair aspect="piletinu" anchor="kiselim" link="" sent="" />
+						<pair aspect="umakom" anchor="kiselim" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>u tijestu je bila piletina u tragovima , slatko kiseli umak previše podsjeća na ketchup . </text>
+				<pairs>
+						<pair aspect="tijestu" anchor="kiseli" link="" sent="" />
+						<pair aspect="piletina" anchor="kiseli" link="" sent="" />
+						<pair aspect="umak" anchor="kiseli" link="+" sent="" />
+						<pair aspect="tijestu" anchor="previše" link="" sent="" />
+						<pair aspect="piletina" anchor="previše" link="" sent="" />
+						<pair aspect="umak" anchor="previše" link="+" sent="-" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>piletina s povrćem je definitivno sto puta bolja . </text>
+				<pairs>
+						<pair aspect="piletina" anchor="bolja" link="+" sent="+" />
+						<pair aspect="povrćem" anchor="bolja" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

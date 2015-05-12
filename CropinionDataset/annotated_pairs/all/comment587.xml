@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza dobra kao uvijek , ali danas bi dao ekstra bodove jer su stavili onaj plastični &amp; quot ; </text>
+				<pairs>
+						<pair aspect="pizza" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>držač krova &amp; quot ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u kutiju : ) sitnica , ali veseli čovjeka ! </text>
+				<pairs />
+		</sentence>
+</comment>

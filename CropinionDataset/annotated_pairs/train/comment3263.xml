@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>čista šestica ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>dostava ne da je pravovremena , nego redovito i urani , čovjek pristojan , kebab ukusan , a ponuda raznovrsna . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="pristojan" link="" sent="" />
+						<pair aspect="kebab" anchor="pristojan" link="" sent="" />
+						<pair aspect="ponuda" anchor="pristojan" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusan" link="" sent="" />
+						<pair aspect="kebab" anchor="ukusan" link="+" sent="+" />
+						<pair aspect="ponuda" anchor="ukusan" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ako vam se nešto brzinski jede , odlična dostava ! </text>
+				<pairs>
+						<pair aspect="jede" anchor="odlična" link="" sent="" />
+						<pair aspect="dostava" anchor="odlična" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>da nisam student , dao bi im i deset kuna viška po narudžbi . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pozdrav ! </text>
+				<pairs />
+		</sentence>
+</comment>

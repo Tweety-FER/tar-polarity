@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>to stada def podlo je odlična ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>i hvala za gratis palačinku , baš super ! </text>
+				<pairs>
+						<pair aspect="palačinku" anchor="hvala" link="+" sent="" />
+						<pair aspect="palačinku" anchor="gratis" link="+" sent="" />
+						<pair aspect="palačinku" anchor="super" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

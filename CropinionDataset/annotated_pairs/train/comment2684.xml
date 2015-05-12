@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručeni pileći medaljoni u umaku os šampinjon . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>kao i uvijek odlični . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>ovaj puta je dostava bila u roku od &lt;num&gt; mina . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>preporuke . </text>
+				<pairs />
+		</sentence>
+</comment>

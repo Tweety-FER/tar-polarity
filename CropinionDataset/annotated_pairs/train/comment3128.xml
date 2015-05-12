@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>danas os kolegica s posla i ja naručile tjesteninu &lt;num&gt; formati i gyros . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>hrana je bila super , a porcije bogate ( jedva smo pojele , ali koliko je bilo fino jednostavno nismo mogle odoljeti ) : - svaki puta kod vas naručim neko drugo jelo i svaki puta sam iznova iznenađenja , u pozitivnom smislu naravno : - ) sigurno ću opet naručiti ili doći kod vas , jedva čekam probati nešto drugo ; </text>
+				<pairs>
+						<pair aspect="hrana" anchor="super" link="+" sent="+" />
+						<pair aspect="porcije" anchor="super" link="" sent="" />
+						<pair aspect="jelo" anchor="super" link="" sent="" />
+						<pair aspect="sam" anchor="super" link="" sent="" />
+						<pair aspect="doći" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="bogate" link="" sent="" />
+						<pair aspect="porcije" anchor="bogate" link="+" sent="+" />
+						<pair aspect="jelo" anchor="bogate" link="" sent="" />
+						<pair aspect="sam" anchor="bogate" link="" sent="" />
+						<pair aspect="doći" anchor="bogate" link="" sent="" />
+						<pair aspect="hrana" anchor="fino" link="" sent="" />
+						<pair aspect="porcije" anchor="fino" link="" sent="" />
+						<pair aspect="jelo" anchor="fino" link="" sent="" />
+						<pair aspect="sam" anchor="fino" link="" sent="" />
+						<pair aspect="doći" anchor="fino" link="" sent="" />
+						<pair aspect="hrana" anchor="čekam" link="" sent="" />
+						<pair aspect="porcije" anchor="čekam" link="" sent="" />
+						<pair aspect="jelo" anchor="čekam" link="" sent="" />
+						<pair aspect="sam" anchor="čekam" link="" sent="" />
+						<pair aspect="doći" anchor="čekam" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>- ) bravo !! </text>
+				<pairs />
+		</sentence>
+</comment>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>brza dostava , fina hrana , super spakirana .... </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="hrana" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="fina" link="+" sent="+" />
+						<pair aspect="hrana" anchor="fina" link="" sent="" />
+						<pair aspect="dostava" anchor="super" link="" sent="" />
+						<pair aspect="hrana" anchor="super" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve pet ... </text>
+				<pairs>
+						<pair aspect="sve" anchor="pet" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>proljetne ladice su još najslabija karika bile u cijeloj prici ... </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve u svemu skroz kej . </text>
+				<pairs />
+		</sentence>
+</comment>

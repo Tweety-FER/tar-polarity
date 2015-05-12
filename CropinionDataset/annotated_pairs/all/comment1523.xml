@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>kolegica oduševljena hranom , a druga kolegica dostavljače . </text>
+				<pairs>
+						<pair aspect="hranom" anchor="oduševljena" link="+" sent="+" />
+						<pair aspect="dostavljače" anchor="oduševljena" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>: ) </text>
+				<pairs />
+		</sentence>
+</comment>

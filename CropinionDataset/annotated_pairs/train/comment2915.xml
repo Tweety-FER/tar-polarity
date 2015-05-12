@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>brza dostava . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ukusna , hrskala pizza . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

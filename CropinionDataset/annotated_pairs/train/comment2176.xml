@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pohvale na brzoj dostavi , u mamilu je pisalo kako pizza stiže za 40min a stigla je za 20min . </text>
+				<pairs>
+						<pair aspect="dostavi" anchor="pohvale" link="+" sent="+" />
+						<pair aspect="pizza" anchor="pohvale" link="" sent="" />
+						<pair aspect="stiže" anchor="pohvale" link="" sent="" />
+						<pair aspect="stigla" anchor="pohvale" link="" sent="" />
+						<pair aspect="dostavi" anchor="brzoj" link="+" sent="+" />
+						<pair aspect="pizza" anchor="brzoj" link="" sent="" />
+						<pair aspect="stiže" anchor="brzoj" link="" sent="" />
+						<pair aspect="stigla" anchor="brzoj" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>pizza jako ukusna </text>
+				<pairs>
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>evo moram pohvalite ljude iz kvarta . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>fino rade svoj posao . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pizza je ukusna , dostava brza i ljubazna . </text>
+				<pairs>
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="pizza" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="pizza" anchor="ljubazna" link="" sent="" />
+						<pair aspect="dostava" anchor="ljubazna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>samo molim vas jedno - nemojte se pokvarite kao svi ostali jer počeli ste pokazivat prve znakove . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sretno u budućnosti i nadam se još dugoj suradnji . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>lijep pozdrav ekipi . </text>
+				<pairs>
+						<pair aspect="ekipi" anchor="lijep" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

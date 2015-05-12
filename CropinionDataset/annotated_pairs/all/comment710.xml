@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>uvijek odlična hrana , cijenama prihvatljiva , ljubazni dostavljači , i dostavljaju na vrijeme . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+						<pair aspect="cijenama" anchor="odlična" link="" sent="" />
+						<pair aspect="dostavljači" anchor="odlična" link="" sent="" />
+						<pair aspect="hrana" anchor="prihvatljiva" link="" sent="" />
+						<pair aspect="cijenama" anchor="prihvatljiva" link="+" sent="+" />
+						<pair aspect="dostavljači" anchor="prihvatljiva" link="" sent="" />
+						<pair aspect="hrana" anchor="ljubazni" link="" sent="" />
+						<pair aspect="cijenama" anchor="ljubazni" link="" sent="" />
+						<pair aspect="dostavljači" anchor="ljubazni" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>iskreno najbolji restoran na pauzi , jedini minus sat rade od 10-15 : d </text>
+				<pairs>
+						<pair aspect="restoran" anchor="najbolji" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

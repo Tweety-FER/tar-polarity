@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jako sam zadovoljna !!! </text>
+				<pairs>
+						<pair aspect="sam" anchor="zadovoljna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>meksička hrana je bila zaista izvrsna !!! </text>
+				<pairs>
+						<pair aspect="meksička" anchor="izvrsna" link="+" sent="" />
+						<pair aspect="hrana" anchor="izvrsna" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>jako jako fino ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve pohvale ! </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="" />
+				</pairs>
+		</sentence>
+</comment>

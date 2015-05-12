@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>uvijek odlična hrana , pogača za prste polizat , a tjestenina u đavolskom umaku je toliko dobra da ju svaki put naručujem . </text>
+				<pairs>
+						<pair aspect="hrana" anchor="odlična" link="+" sent="+" />
+						<pair aspect="tjestenina" anchor="odlična" link="" sent="" />
+						<pair aspect="umaku" anchor="odlična" link="" sent="" />
+						<pair aspect="hrana" anchor="polizat" link="" sent="" />
+						<pair aspect="tjestenina" anchor="polizat" link="" sent="" />
+						<pair aspect="umaku" anchor="polizat" link="" sent="" />
+						<pair aspect="hrana" anchor="dobra" link="" sent="" />
+						<pair aspect="tjestenina" anchor="dobra" link="+" sent="+" />
+						<pair aspect="umaku" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jelo paštu s gljivama , piletinom i špekom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>porcija je bila super , svega je bilo dosta osim umaka kojeg bas nije bilo . </text>
+				<pairs>
+						<pair aspect="porcija" anchor="super" link="+" sent="+" />
+						<pair aspect="umaka" anchor="super" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>jelo je bilo ukusno ok , jedina i najveća zamjerka ide piletini koja je bila katastrofa ( polu hladna , žilava , tvrda i čudnog okusa ) , da nije bilo nje jelo bi bilo super ovakvo solidno . </text>
+				<pairs>
+						<pair aspect="jelo" anchor="ukusno" link="+" sent="+" />
+						<pair aspect="piletini" anchor="ukusno" link="" sent="" />
+						<pair aspect="okusa" anchor="ukusno" link="" sent="" />
+						<pair aspect="jelo" anchor="ukusno" link="" sent="" />
+						<pair aspect="jelo" anchor="ok" link="+" sent="+" />
+						<pair aspect="piletini" anchor="ok" link="" sent="" />
+						<pair aspect="okusa" anchor="ok" link="" sent="" />
+						<pair aspect="jelo" anchor="ok" link="" sent="" />
+						<pair aspect="jelo" anchor="zamjerka" link="" sent="" />
+						<pair aspect="piletini" anchor="zamjerka" link="+" sent="-" />
+						<pair aspect="okusa" anchor="zamjerka" link="" sent="" />
+						<pair aspect="jelo" anchor="zamjerka" link="" sent="" />
+						<pair aspect="jelo" anchor="katastrofa" link="" sent="" />
+						<pair aspect="piletini" anchor="katastrofa" link="+" sent="-" />
+						<pair aspect="okusa" anchor="katastrofa" link="" sent="" />
+						<pair aspect="jelo" anchor="katastrofa" link="" sent="" />
+						<pair aspect="jelo" anchor="hladna" link="" sent="" />
+						<pair aspect="piletini" anchor="hladna" link="+" sent="-" />
+						<pair aspect="okusa" anchor="hladna" link="" sent="" />
+						<pair aspect="jelo" anchor="hladna" link="" sent="" />
+						<pair aspect="jelo" anchor="žilava" link="" sent="" />
+						<pair aspect="piletini" anchor="žilava" link="+" sent="-" />
+						<pair aspect="okusa" anchor="žilava" link="" sent="" />
+						<pair aspect="jelo" anchor="žilava" link="" sent="" />
+						<pair aspect="jelo" anchor="tvrda" link="" sent="" />
+						<pair aspect="piletini" anchor="tvrda" link="+" sent="-" />
+						<pair aspect="okusa" anchor="tvrda" link="" sent="" />
+						<pair aspect="jelo" anchor="tvrda" link="" sent="" />
+						<pair aspect="jelo" anchor="čudnog" link="" sent="" />
+						<pair aspect="piletini" anchor="čudnog" link="" sent="" />
+						<pair aspect="okusa" anchor="čudnog" link="+" sent="-" />
+						<pair aspect="jelo" anchor="čudnog" link="" sent="" />
+						<pair aspect="jelo" anchor="super" link="" sent="" />
+						<pair aspect="piletini" anchor="super" link="" sent="" />
+						<pair aspect="okusa" anchor="super" link="" sent="" />
+						<pair aspect="jelo" anchor="super" link="" sent="" />
+						<pair aspect="jelo" anchor="solidno" link="" sent="" />
+						<pair aspect="piletini" anchor="solidno" link="" sent="" />
+						<pair aspect="okusa" anchor="solidno" link="" sent="" />
+						<pair aspect="jelo" anchor="solidno" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odlični , &lt;num&gt; mina prije vremena , ljubazan dostavljač ... </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="odlični" link="" sent="" />
+						<pair aspect="dostavljač" anchor="mina" link="" sent="" />
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>bela Italija ukusna , velika i solidno opremljena : ) </text>
+				<pairs />
+		</sentence>
+</comment>

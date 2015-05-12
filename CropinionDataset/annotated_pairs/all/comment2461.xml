@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je kasnila pola sata ali palačinke stigle tople i pare pare finese ... </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="-" />
+						<pair aspect="palačinke" anchor="kasnila" link="" sent="" />
+						<pair aspect="stigle" anchor="kasnila" link="" sent="" />
+						<pair aspect="dostava" anchor="tople" link="" sent="" />
+						<pair aspect="palačinke" anchor="tople" link="+" sent="+" />
+						<pair aspect="stigle" anchor="tople" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>definitivno najbolja hrana ovakvog tipa u zg .. </text>
+				<pairs>
+						<pair aspect="hrana" anchor="najbolja" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>samo da se ne pokvare .. </text>
+				<pairs />
+		</sentence>
+</comment>

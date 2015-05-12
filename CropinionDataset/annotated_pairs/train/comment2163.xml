@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>ovi likovi su carevi . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>naručivah sada &lt;num&gt; puta pizzu i nije prošlo . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>čovjek nazivao iz pizzerije ispričali se odmah i Šalju pizzu . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>to je usluga koja se traži i naravno pizze su odlične </text>
+				<pairs>
+						<pair aspect="usluga" anchor="odlične" link="" sent="" />
+						<pair aspect="pizze" anchor="odlične" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

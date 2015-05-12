@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručeni zeleni rezanci sa škampima i dagnja ma pa je očekivanje zapravo bilo da će kao i kod drugih stići račići iz konzerve i komadići smrznutih dagnji .. </text>
+				<pairs>
+						<pair aspect="stići" anchor="komadići" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ali došle su prave dagnje i pravi škamp ići . </text>
+				<pairs>
+						<pair aspect="došle" anchor="prave" link="+" sent="+" />
+						<pair aspect="došle" anchor="pravi" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>prvi puta da to doživimo u dostavi . </text>
+				<pairs />
+		</sentence>
+</comment>

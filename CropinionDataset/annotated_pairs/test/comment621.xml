@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>gabele 5pileći file u umaku od šampinjon + tijesto + salata + kruh bravo !!! </text>
+				<pairs>
+						<pair aspect="file" anchor="bravo" link="+" sent="" />
+						<pair aspect="umaku" anchor="bravo" link="+" sent="" />
+						<pair aspect="šampinjon" anchor="bravo" link="+" sent="" />
+						<pair aspect="tijesto" anchor="bravo" link="+" sent="" />
+						<pair aspect="salata" anchor="bravo" link="+" sent="" />
+						<pair aspect="kruh" anchor="bravo" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>x3Preporuka svima ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>x3 </text>
+				<pairs />
+		</sentence>
+</comment>

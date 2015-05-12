@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odličan purger . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>pomfri vrhunski i dostava uranila pola sata . </text>
+				<pairs>
+						<pair aspect="pomfri" anchor="vrhunski" link="+" sent="+" />
+						<pair aspect="dostava" anchor="vrhunski" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>ocjena &lt;num&gt; od &lt;num&gt; ; </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>) </text>
+				<pairs />
+		</sentence>
+</comment>

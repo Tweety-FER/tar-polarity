@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dostava je bila extra brza ( &lt;num&gt; mina ) , pizza veselio + extra sir vruća i ukusna sa doista mnogo sira . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+						<pair aspect="pizza" anchor="brza" link="" sent="" />
+						<pair aspect="sir" anchor="brza" link="" sent="" />
+						<pair aspect="sira" anchor="brza" link="" sent="" />
+						<pair aspect="dostava" anchor="mina" link="" sent="" />
+						<pair aspect="pizza" anchor="mina" link="" sent="" />
+						<pair aspect="sir" anchor="mina" link="" sent="" />
+						<pair aspect="sira" anchor="mina" link="" sent="" />
+						<pair aspect="dostava" anchor="vruća" link="" sent="" />
+						<pair aspect="pizza" anchor="vruća" link="+" sent="+" />
+						<pair aspect="sir" anchor="vruća" link="" sent="" />
+						<pair aspect="sira" anchor="vruća" link="" sent="" />
+						<pair aspect="dostava" anchor="ukusna" link="" sent="" />
+						<pair aspect="pizza" anchor="ukusna" link="+" sent="+" />
+						<pair aspect="sir" anchor="ukusna" link="" sent="" />
+						<pair aspect="sira" anchor="ukusna" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostavljač ljubazan . </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="ljubazan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sve u svemu , naručiti ću opet i preporučujem svima . </text>
+				<pairs>
+						<!-- opet ovaj idiom sve u svemu -->
+						<pair aspect="sve" anchor="preporučujem" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

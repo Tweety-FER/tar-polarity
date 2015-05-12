@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>jučer smo naručili hranu , nije nam prvi , ali je zadnji . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u zadnjih mjesec dana kvaliteta hrane se dramatično srezala . </text>
+				<pairs>
+						<pair aspect="kvaliteta" anchor="kvaliteta" link="" sent="" />
+						<pair aspect="hrane" anchor="kvaliteta" link="-" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>kao prvo , dostava kasnila skoro sat vremena , bez ikakve isprike ili kompenzacije . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasnila" link="+" sent="-" />
+						<pair aspect="dostava" anchor="isprike" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>kao drugo , umjesto vegetarijanskih , dobili smo police s mesom . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>kao treće , riža je bila potku hana , a piletina je imala čudan miris . </text>
+				<pairs>
+						<pair aspect="riža" anchor="čudan" link="" sent="" />
+						<pair aspect="piletina" anchor="čudan" link="+" sent="-" />
+				</pairs>
+		</sentence>
+</comment>

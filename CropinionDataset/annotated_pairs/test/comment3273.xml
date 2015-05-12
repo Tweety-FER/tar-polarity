@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručili smo prije sat i dvadeset minuta &lt;num&gt; kebaba i još nije stiglo . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>odlični su kebabi ali samo malo poraditi na dostavi ... </text>
+				<pairs>
+						<pair aspect="kebabi" anchor="odlični" link="+" sent="" />
+						<pair aspect="dostavi" anchor="odlični" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

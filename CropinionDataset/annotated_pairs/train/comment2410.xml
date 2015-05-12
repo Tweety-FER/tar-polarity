@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>odličan kebab u tortilji , samo da ima malo više priloga ... </text>
+				<pairs>
+						<pair aspect="kebab" anchor="odličan" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

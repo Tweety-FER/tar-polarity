@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>raviolli s umakom od lososa , odlično ! </text>
+				<pairs>
+						<pair aspect="umakom" anchor="odlično" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>oblizalo sam posudu : ) </text>
+				<pairs />
+		</sentence>
+</comment>

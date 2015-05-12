@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručila sam pizzu u 19h . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>rekli su da je vrijeme dostave &lt;num&gt; mina . </text>
+				<pairs>
+						<pair aspect="dostave" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>sada je 22h , a nitko nije nazivao niti se pojavio . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>jako loše . </text>
+				<pairs />
+		</sentence>
+</comment>

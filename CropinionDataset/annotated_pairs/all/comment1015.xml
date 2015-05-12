@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>naručio sam pržene lignje i bile su jako ukusne . </text>
+				<pairs>
+						<pair aspect="sam" anchor="ukusne" link="" sent="" />
+						<pair aspect="lignje" anchor="ukusne" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>moram pohvaliti i dostavljača koje je došao za pola sata ( &lt;num&gt; minuta prije ) . </text>
+				<pairs>
+						<pair aspect="dostavljača" anchor="pohvaliti" link="+" sent="+" />
+						<pair aspect="došao" anchor="pohvaliti" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dajem im &lt;num&gt; zvjezdica samo zbog malo presoljenog tatar umaka . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve u svemu , odlično ! </text>
+				<pairs>
+						<pair aspect="sve" anchor="odlično" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

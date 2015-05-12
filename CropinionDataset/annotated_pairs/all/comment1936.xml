@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>meksička jela su im zakon . </text>
+				<pairs>
+						<pair aspect="meksička" anchor="zakon" link="+" sent="" />
+						<pair aspect="jela" anchor="zakon" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>probao sam sva koja nude i meni su vrlo ukusna , a i porcije su dosta velike . </text>
+				<pairs>
+						<pair aspect="sam" anchor="ukusna" link="" sent="" />
+						<pair aspect="porcije" anchor="ukusna" link="" sent="" />
+						<pair aspect="sam" anchor="velike" link="" sent="" />
+						<pair aspect="porcije" anchor="velike" link="+" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>Interneta dostava mi je svaki put došla prije naznačenog vremena . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>u svakom slučaju 6/6 ! </text>
+				<pairs />
+		</sentence>
+</comment>

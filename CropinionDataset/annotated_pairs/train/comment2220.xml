@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>s tunom brutalnoj dobra ! </text>
+				<pairs>
+						<pair aspect="tunom" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>savršena ! </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>jedino dostava malo kasni , ali došla je topla tako da sve pet . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="kasni" link="+" sent="-" />
+						<pair aspect="došla" anchor="kasni" link="" sent="" />
+						<pair aspect="sve" anchor="kasni" link="" sent="" />
+						<pair aspect="dostava" anchor="topla" link="" sent="" />
+						<pair aspect="došla" anchor="topla" link="+" sent="+" />
+						<pair aspect="sve" anchor="topla" link="" sent="" />
+						<pair aspect="dostava" anchor="pet" link="" sent="" />
+						<pair aspect="došla" anchor="pet" link="" sent="" />
+						<pair aspect="sve" anchor="pet" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

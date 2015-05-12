@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CrawlItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Text>Ovo je danas bilo pravo domaće, pohvale kuharu! Naručili krvavice, kiselo zelje, restani krumpir.</Text>
+  <Rating>6</Rating>
+  <Source>http://pauza.hr/menu/libertas</Source>
+</CrawlItem>

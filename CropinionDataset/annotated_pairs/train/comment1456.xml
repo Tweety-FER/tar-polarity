@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>pizza prepone je došla vruća , fenomenalna i prije vremena .. </text>
+				<pairs>
+						<pair aspect="pizza" anchor="vruća" link="+" sent="+" />
+						<pair aspect="došla" anchor="vruća" link="+" sent="+" />
+						<pair aspect="pizza" anchor="fenomenalna" link="+" sent="+" />
+						<pair aspect="došla" anchor="fenomenalna" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>nas dvoje se najeli od jedne pizze , hvala tornado : ) </text>
+				<pairs>
+						<pair aspect="pizze" anchor="hvala" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

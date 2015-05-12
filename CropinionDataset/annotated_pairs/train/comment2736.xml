@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>dakle , naručio sam naravni pileći + krumpir salata . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>sve je jako oo ukupno . </text>
+				<pairs />
+		</sentence>
+		<sentence>
+				<text>meso toplo , salata svježa . </text>
+				<pairs>
+						<pair aspect="meso" anchor="toplo" link="+" sent="+" />
+						<pair aspect="salata" anchor="toplo" link="" sent="" />
+						<pair aspect="meso" anchor="svježa" link="" sent="" />
+						<pair aspect="salata" anchor="svježa" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostava brza . </text>
+				<pairs>
+						<pair aspect="dostava" anchor="brza" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>odlično !!! </text>
+				<pairs />
+		</sentence>
+</comment>

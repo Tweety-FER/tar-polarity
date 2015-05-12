@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>kebab došao hladan ... </text>
+				<pairs>
+						<pair aspect="kebab" anchor="hladan" link="+" sent="-" />
+						<pair aspect="došao" anchor="hladan" link="" sent="" />
+				</pairs>
+		</sentence>
+</comment>

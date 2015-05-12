@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>sve pohvale kuharu , pljeskavica odlična , lignja savršena : d </text>
+				<pairs>
+						<pair aspect="sve" anchor="pohvale" link="+" sent="+" />
+						<pair aspect="pljeskavica" anchor="pohvale" link="" sent="" />
+						<pair aspect="lignja" anchor="pohvale" link="" sent="" />
+						<pair aspect="sve" anchor="odlična" link="" sent="" />
+						<pair aspect="pljeskavica" anchor="odlična" link="+" sent="+" />
+						<pair aspect="lignja" anchor="odlična" link="" sent="" />
+						<pair aspect="sve" anchor="savršena" link="" sent="" />
+						<pair aspect="pljeskavica" anchor="savršena" link="" sent="" />
+						<pair aspect="lignja" anchor="savršena" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>

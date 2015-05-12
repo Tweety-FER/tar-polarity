@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>da i zaboravio sam komentirate dostava rečena za &lt;num&gt; mina bila je kod mene za &lt;num&gt; mina . </text>
+				<pairs>
+						<pair aspect="sam" anchor="mina" link="" sent="" />
+						<pair aspect="dostava" anchor="mina" link="" sent="" />
+						<pair aspect="sam" anchor="mina" link="" sent="" />
+						<pair aspect="dostava" anchor="mina" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>dostavljač simpatičan sa simpatičnim doskočicama ma jako dobro sve oduševili ste me danas . </text>
+				<pairs>
+						<pair aspect="dostavljač" anchor="simpatičan" link="+" sent="+" />
+						<pair aspect="sve" anchor="simpatičan" link="" sent="" />
+						<pair aspect="ste" anchor="simpatičan" link="" sent="" />
+						<pair aspect="dostavljač" anchor="simpatičnim" link="+" sent="+" />
+						<pair aspect="sve" anchor="simpatičnim" link="" sent="" />
+						<pair aspect="ste" anchor="simpatičnim" link="" sent="" />
+						<pair aspect="dostavljač" anchor="dobro" link="" sent="" />
+						<pair aspect="sve" anchor="dobro" link="+" sent="+" />
+						<pair aspect="ste" anchor="dobro" link="" sent="" />
+						<pair aspect="dostavljač" anchor="oduševili" link="" sent="" />
+						<pair aspect="sve" anchor="oduševili" link="" sent="" />
+						<pair aspect="ste" anchor="oduševili" link="+" sent="+" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>svaka čast radnicima svaka čast gazdi što je naso takvu ekipu . </text>
+				<pairs>
+						<pair aspect="ekipu" anchor="čast" link="" sent="" />
+						<pair aspect="ekipu" anchor="čast" link="" sent="" />
+				</pairs>
+		</sentence>
+		<sentence>
+				<text>+ + + &lt;num&gt; </text>
+				<pairs />
+		</sentence>
+</comment>

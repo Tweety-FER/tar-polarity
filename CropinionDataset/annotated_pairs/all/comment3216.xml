@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comment>
+		<sentence>
+				<text>zagrebački uštipci , prva liga : ) preporučujem bilo što iz selskoj kutka , uvijek je dobra klopa . </text>
+				<pairs>
+						<pair aspect="zagrebački" anchor="liga" link="+" sent="+" />
+						<pair aspect="klopa" anchor="liga" link="" sent="" />
+						<pair aspect="zagrebački" anchor="preporučujem" link="" sent="" />
+						<pair aspect="klopa" anchor="preporučujem" link="" sent="" />
+						<pair aspect="zagrebački" anchor="dobra" link="" sent="" />
+						<pair aspect="klopa" anchor="dobra" link="+" sent="+" />
+				</pairs>
+		</sentence>
+</comment>
