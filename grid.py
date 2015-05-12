@@ -8,7 +8,7 @@ from sklearn.grid_search import GridSearchCV
 from sklearn.metrics import classification_report, make_scorer
 
 #Number of folds
-k = 10
+k = 5
 
 X_train = np.loadtxt('features/train/nonscaled.txt')
 y_train = np.loadtxt('features/train/y.txt')[:,0]
@@ -28,7 +28,7 @@ tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-3, 5e-4, 1e-4],
                      'C': [50, 100, 500, 1000]},
                     {'kernel': ['linear'], 'C': [10, 50, 100, 500, 1000]}]
 
-scores = [('f1',make_scorer(f1_score, pos_label=None, average='macro'))]
+scores = [('f1',make_scorer(f1_score))]
 
 for score in scores:
     print("# Tuning hyper-parameters for %s" % score[0])
