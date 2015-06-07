@@ -22,9 +22,9 @@ X_test = scale(X_test)
 N = X_train.shape[0]
 
 # ---------- GRID SETUP ----------- #
-tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-1, 5e-2, 1e-2, 5e-3, 1e-3, 5e-4, 1e-4],
-                     'C': [5, 10, 25, 50, 72, 100, 250, 500, 750, 1000, 1250, 1500]}]#,
-                    #{'kernel': ['linear'], 'C': [10, 50, 100, 500, 1000]}]
+tuned_parameters = [{'kernel': ['rbf'], 'gamma': [1e-1, 1e-2, 1e-3, 1e-4, 1e-5],
+                     'C': [10, 50, 100, 500, 1000, 5000, 10000]}] 
+                     
 
 # Ignore linear for now, too slow
 
